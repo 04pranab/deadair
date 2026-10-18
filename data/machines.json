@@ -1,0 +1,17 @@
+{
+ "incinerator": {"name": "Incinerator", "tile": 94, "cat": "counterplay", "hold": 1.5, "count": 2,
+                 "desc": "Hold E with a Rift paper to burn it fast"},
+ "ward":        {"name": "Ward Pylon", "tile": 129, "cat": "defensive", "cost": 4, "duration": 25.0, "cooldown": 90.0,
+                 "radius": 280.0, "slow": 0.55, "count": 2, "desc": "Protects an area: no Rift selection, zombies slowed, Host veil stripped"},
+ "gauge":       {"name": "Rift Gauge", "tile": 111, "cat": "information", "cost": 0, "duration": 25.0, "cooldown": 40.0,
+                 "accuracy": 0.7, "count": 2, "desc": "Reads the station's pressure. It looks back: using it taints you"},
+ "switchboard": {"name": "Switchboard", "tile": 88, "cat": "environment", "cost": 2, "duration": 40.0, "cooldown": 20.0,
+                 "reach": 900.0, "count": 3, "desc": "Locks (or unlocks) the two nearest doors; a Host can contest them"},
+ "breaker":     {"name": "Power Breaker", "tile": 100, "cat": "risk", "cost": 0, "cooldown": 60.0, "alert_radius": 900.0,
+                 "count": 2, "desc": "Ends a blackout and floods the station with light, but wakes everything nearby"},
+ "beacon":      {"name": "Decoy Beacon", "tile": 125, "cat": "defensive", "cost": 6, "duration": 15.0, "cooldown": 80.0,
+                 "pull_radius": 1100.0, "blast_radius": 130.0, "blast_damage": 40.0, "warn": 2.0, "count": 3,
+                 "desc": "Pulls zombies in for 15 s, then detonates. Clear the blast area"},
+ "emitter":     {"name": "Static Emitter", "tile": 108, "cat": "counterplay", "cost": 10, "duration": 12.0, "cooldown": 70.0,
+                 "radius": 700.0, "host_slow": 0.55, "count": 2, "desc": "Strips the Host's veil and slows it; stops a summon"}
+}

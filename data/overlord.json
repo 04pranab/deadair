@@ -1,0 +1,86 @@
+{
+ "sever_hold": 6.0,
+ "avatar": {
+  "hp_mult": 1.0,
+  "shield_factor": 0.04,
+  "exposed_time": 14.0,
+  "exposed_cap": 22.0,
+  "invincible": true
+ },
+ "conduits": {
+  "count": 3,
+  "hold": 5.0,
+  "ring": [
+   300,
+   430
+  ],
+  "recharge": 40.0
+ },
+ "waves": {
+  "interval": 16.0,
+  "normal": 10,
+  "giant_every": 3,
+  "warn": 2.5
+ },
+ "arc": {
+  "interval": 6.0,
+  "warn": 1.6,
+  "radius": 64
+ },
+ "fold": {
+  "interval": 38.0,
+  "warn": 3.0,
+  "first": 24.0
+ },
+ "foresight": {
+  "interval": 5.0,
+  "warn": 1.8,
+  "radius": 90
+ },
+ "lastlight": {
+  "interval": 34.0,
+  "dark": 7.0,
+  "ghost_base": 2,
+  "ghost_per_gens": 3,
+  "ghost_cap": 6
+ },
+ "doctrine": {
+  "step": 0.55,
+  "share": 0.65,
+  "min_total": 60,
+  "max_level": 2,
+  "novel_bonus": 2.5
+ },
+ "voice": {
+  "awake": [
+   "You took the Core. It was warm because it was me.",
+   "Sit. We have time. We have always had time."
+  ],
+  "phase2": [
+   "I have read your hands. Every hand on those conduits, I have already held."
+  ],
+  "phase3": [
+   "Lastlight. I kept their faces. I will show you every one."
+  ],
+  "conduit": [
+   "That hurt. Do it again and I will learn it."
+  ],
+  "predecessors": [
+   "{names}. Say hello. They stopped surprising me, and I could not let them go."
+  ],
+  "inherited": [
+   "The last of you tried {how}. I remember it fondly. It will not work twice."
+  ],
+  "learned": {
+   "shot": "You lean on the shot. I have stopped hearing it.",
+   "charge": "The same charge, the same angle. I know that dance.",
+   "blast": "Beacons. Clever, once.",
+   "surge": "The grid answers to me. It was only ever lending itself.",
+   "other": "You repeat yourself."
+  },
+  "destroyed": [
+   "...Oh. I did not predict that.",
+   "Thank you. I had forgotten what it felt like."
+  ]
+ }
+}

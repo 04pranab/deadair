@@ -1,0 +1,5078 @@
+{
+ "chars2d/Adventurer/Poses/adventurer_action1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_action1.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_action2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_action2.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_back.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_back.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_cheer1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_cheer1.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_cheer2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_cheer2.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_climb1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_climb1.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_climb2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_climb2.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_duck.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_duck.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_fall.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_fall.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_hang.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_hang.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_hold1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_hold1.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_hold2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_hold2.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_hurt.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_hurt.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_idle.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_idle.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_jump.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_jump.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_kick.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_kick.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_skid.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_skid.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_slide.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_slide.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_stand.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_stand.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_swim1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_swim1.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_swim2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_swim2.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_talk.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_talk.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_walk1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_walk1.png",
+  "w": 80
+ },
+ "chars2d/Adventurer/Poses/adventurer_walk2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Adventurer/Poses/adventurer_walk2.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_action1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_action1.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_action2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_action2.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_back.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_back.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_cheer1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_cheer1.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_cheer2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_cheer2.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_climb1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_climb1.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_climb2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_climb2.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_duck.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_duck.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_fall.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_fall.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_hang.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_hang.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_hold1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_hold1.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_hold2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_hold2.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_hurt.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_hurt.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_idle.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_idle.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_jump.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_jump.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_kick.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_kick.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_skid.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_skid.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_slide.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_slide.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_stand.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_stand.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_swim1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_swim1.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_swim2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_swim2.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_talk.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_talk.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_walk1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_walk1.png",
+  "w": 80
+ },
+ "chars2d/Female/Poses/female_walk2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Female/Poses/female_walk2.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_action1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_action1.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_action2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_action2.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_back.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_back.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_cheer1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_cheer1.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_cheer2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_cheer2.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_climb1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_climb1.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_climb2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_climb2.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_duck.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_duck.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_fall.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_fall.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_hang.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_hang.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_hold1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_hold1.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_hold2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_hold2.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_hurt.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_hurt.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_idle.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_idle.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_jump.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_jump.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_kick.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_kick.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_skid.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_skid.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_slide.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_slide.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_stand.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_stand.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_swim1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_swim1.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_swim2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_swim2.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_talk.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_talk.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_walk1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_walk1.png",
+  "w": 80
+ },
+ "chars2d/Player/Poses/player_walk2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Player/Poses/player_walk2.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_action1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_action1.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_action2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_action2.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_back.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_back.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_cheer1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_cheer1.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_cheer2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_cheer2.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_climb1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_climb1.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_climb2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_climb2.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_duck.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_duck.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_fall.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_fall.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_hang.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_hang.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_hold1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_hold1.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_hold2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_hold2.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_hurt.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_hurt.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_idle.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_idle.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_jump.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_jump.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_kick.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_kick.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_skid.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_skid.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_slide.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_slide.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_stand.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_stand.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_swim1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_swim1.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_swim2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_swim2.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_talk.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_talk.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_walk1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_walk1.png",
+  "w": 80
+ },
+ "chars2d/Soldier/Poses/soldier_walk2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Soldier/Poses/soldier_walk2.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_action1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_action1.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_action2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_action2.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_back.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_back.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_cheer1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_cheer1.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_cheer2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_cheer2.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_climb1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_climb1.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_climb2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_climb2.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_duck.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_duck.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_fall.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_fall.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_hang.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_hang.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_hold1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_hold1.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_hold2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_hold2.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_hurt.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_hurt.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_idle.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_idle.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_jump.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_jump.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_kick.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_kick.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_skid.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_skid.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_slide.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_slide.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_stand.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_stand.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_swim1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_swim1.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_swim2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_swim2.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_talk.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_talk.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_walk1.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_walk1.png",
+  "w": 80
+ },
+ "chars2d/Zombie/Poses/zombie_walk2.png": {
+  "h": 110,
+  "mode": "RGBA",
+  "source": "k2/kenney_platformer-characters/standalone_tiles/PNG/Zombie/Poses/zombie_walk2.png",
+  "w": 80
+ },
+ "fx/lights/circle_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_a.png",
+  "w": 512
+ },
+ "fx/lights/circle_a_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_a_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_a_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_a_streaks.png",
+  "w": 512
+ },
+ "fx/lights/circle_a_streaks_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_a_streaks_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_b.png",
+  "w": 512
+ },
+ "fx/lights/circle_b_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_b_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_b_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_b_streaks.png",
+  "w": 512
+ },
+ "fx/lights/circle_b_streaks_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_b_streaks_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_c.png",
+  "w": 512
+ },
+ "fx/lights/circle_c_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_c_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_c_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_c_streaks.png",
+  "w": 512
+ },
+ "fx/lights/circle_c_streaks_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_c_streaks_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_d.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_d.png",
+  "w": 512
+ },
+ "fx/lights/circle_d_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_d_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_d_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_d_streaks.png",
+  "w": 512
+ },
+ "fx/lights/circle_d_streaks_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_d_streaks_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_a.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_a_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_a_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_a_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_a_streaks.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_b.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_b_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_b_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_b_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_b_streaks.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_c.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_c_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_c_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_c_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_c_streaks.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_d.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_d.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_d_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_d_noise.png",
+  "w": 512
+ },
+ "fx/lights/circle_rings_d_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/circle_rings_d_streaks.png",
+  "w": 512
+ },
+ "fx/lights/cone_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_a.png",
+  "w": 512
+ },
+ "fx/lights/cone_a_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_a_blur.png",
+  "w": 512
+ },
+ "fx/lights/cone_a_blur_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_a_blur_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_a_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_a_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_b.png",
+  "w": 512
+ },
+ "fx/lights/cone_b_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_b_blur.png",
+  "w": 512
+ },
+ "fx/lights/cone_b_blur_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_b_blur_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_b_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_b_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_c.png",
+  "w": 512
+ },
+ "fx/lights/cone_c_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_c_blur.png",
+  "w": 512
+ },
+ "fx/lights/cone_c_blur_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_c_blur_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_c_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_c_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_a.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_a_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_a_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_b.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_b_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_b_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_c.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_c_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_c_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_d.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_d.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_d_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_d_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_e.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_e.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_e_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_e_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_f.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_f.png",
+  "w": 512
+ },
+ "fx/lights/cone_composed_f_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_composed_f_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_d.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_d.png",
+  "w": 512
+ },
+ "fx/lights/cone_d_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_d_blur.png",
+  "w": 512
+ },
+ "fx/lights/cone_d_blur_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_d_blur_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_d_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_d_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_e.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_e.png",
+  "w": 512
+ },
+ "fx/lights/cone_e_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_e_blur.png",
+  "w": 512
+ },
+ "fx/lights/cone_e_blur_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_e_blur_noise.png",
+  "w": 512
+ },
+ "fx/lights/cone_e_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/cone_e_noise.png",
+  "w": 512
+ },
+ "fx/lights/fan_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_a.png",
+  "w": 512
+ },
+ "fx/lights/fan_a_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_a_blur.png",
+  "w": 512
+ },
+ "fx/lights/fan_a_gradient.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_a_gradient.png",
+  "w": 512
+ },
+ "fx/lights/fan_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_b.png",
+  "w": 512
+ },
+ "fx/lights/fan_b_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_b_blur.png",
+  "w": 512
+ },
+ "fx/lights/fan_b_gradient.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_b_gradient.png",
+  "w": 512
+ },
+ "fx/lights/fan_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_c.png",
+  "w": 512
+ },
+ "fx/lights/fan_c_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_c_blur.png",
+  "w": 512
+ },
+ "fx/lights/fan_c_gradient.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_c_gradient.png",
+  "w": 512
+ },
+ "fx/lights/fan_d.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_d.png",
+  "w": 512
+ },
+ "fx/lights/fan_d_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_d_blur.png",
+  "w": 512
+ },
+ "fx/lights/fan_d_gradient.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/fan_d_gradient.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_a.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_a_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_a_blur.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_a_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_a_noise.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_b.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_b_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_b_blur.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_b_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_b_noise.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_c.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_c_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_c_blur.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_c_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_c_noise.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_d.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_d.png",
+  "w": 512
+ },
+ "fx/lights/foliage_canopy_d_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/foliage_canopy_d_noise.png",
+  "w": 512
+ },
+ "fx/lights/ring_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/ring_a.png",
+  "w": 512
+ },
+ "fx/lights/ring_a_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/ring_a_noise.png",
+  "w": 512
+ },
+ "fx/lights/ring_a_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/ring_a_streaks.png",
+  "w": 512
+ },
+ "fx/lights/ring_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/ring_b.png",
+  "w": 512
+ },
+ "fx/lights/ring_b_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/ring_b_noise.png",
+  "w": 512
+ },
+ "fx/lights/ring_b_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/ring_b_streaks.png",
+  "w": 512
+ },
+ "fx/lights/ring_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/ring_c.png",
+  "w": 512
+ },
+ "fx/lights/ring_c_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/ring_c_noise.png",
+  "w": 512
+ },
+ "fx/lights/ring_c_streaks.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/ring_c_streaks.png",
+  "w": 512
+ },
+ "fx/lights/shape_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/shape_a.png",
+  "w": 512
+ },
+ "fx/lights/shape_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/shape_b.png",
+  "w": 512
+ },
+ "fx/lights/shape_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/shape_c.png",
+  "w": 512
+ },
+ "fx/lights/shape_d.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/shape_d.png",
+  "w": 512
+ },
+ "fx/lights/shape_e.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/shape_e.png",
+  "w": 512
+ },
+ "fx/lights/shape_f.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/shape_f.png",
+  "w": 512
+ },
+ "fx/lights/shape_g.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/shape_g.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_a.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_a_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_a_noise.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_b.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_b_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_b_noise.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_c.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_c_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_c_noise.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_d.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_d.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_d_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_d_noise.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_e.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_e.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_e_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_e_noise.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_f.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_f.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_f_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_f_noise.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_g.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_g.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_g_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_g_noise.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_h.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_h.png",
+  "w": 512
+ },
+ "fx/lights/streaks_composed_h_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/streaks_composed_h_noise.png",
+  "w": 512
+ },
+ "fx/lights/water_caustics_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/water_caustics_a.png",
+  "w": 512
+ },
+ "fx/lights/water_caustics_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/water_caustics_b.png",
+  "w": 512
+ },
+ "fx/lights/water_caustics_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/water_caustics_c.png",
+  "w": 512
+ },
+ "fx/lights/water_caustics_d.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/water_caustics_d.png",
+  "w": 512
+ },
+ "fx/lights/window_a.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_a.png",
+  "w": 512
+ },
+ "fx/lights/window_a_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_a_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_a_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_a_noise.png",
+  "w": 512
+ },
+ "fx/lights/window_b.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_b.png",
+  "w": 512
+ },
+ "fx/lights/window_b_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_b_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_b_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_b_noise.png",
+  "w": 512
+ },
+ "fx/lights/window_c.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_c.png",
+  "w": 512
+ },
+ "fx/lights/window_c_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_c_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_c_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_c_noise.png",
+  "w": 512
+ },
+ "fx/lights/window_d.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_d.png",
+  "w": 512
+ },
+ "fx/lights/window_d_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_d_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_d_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_d_noise.png",
+  "w": 512
+ },
+ "fx/lights/window_e.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_e.png",
+  "w": 512
+ },
+ "fx/lights/window_e_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_e_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_e_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_e_noise.png",
+  "w": 512
+ },
+ "fx/lights/window_f.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_f.png",
+  "w": 512
+ },
+ "fx/lights/window_f_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_f_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_f_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_f_noise.png",
+  "w": 512
+ },
+ "fx/lights/window_g.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_g.png",
+  "w": 512
+ },
+ "fx/lights/window_g_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_g_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_g_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_g_noise.png",
+  "w": 512
+ },
+ "fx/lights/window_h.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_h.png",
+  "w": 512
+ },
+ "fx/lights/window_h_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_h_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_h_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_h_noise.png",
+  "w": 512
+ },
+ "fx/lights/window_i.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_i.png",
+  "w": 512
+ },
+ "fx/lights/window_i_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_i_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_i_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_i_noise.png",
+  "w": 512
+ },
+ "fx/lights/window_j.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_j.png",
+  "w": 512
+ },
+ "fx/lights/window_j_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_j_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_j_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_j_noise.png",
+  "w": 512
+ },
+ "fx/lights/window_k.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_k.png",
+  "w": 512
+ },
+ "fx/lights/window_k_blur.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_k_blur.png",
+  "w": 512
+ },
+ "fx/lights/window_k_noise.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k1/kenney_light-masks-1.0/standalone_tiles/Transparent/window_k_noise.png",
+  "w": 512
+ },
+ "fx/particles/circle_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/circle_01.png",
+  "w": 512
+ },
+ "fx/particles/circle_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/circle_02.png",
+  "w": 512
+ },
+ "fx/particles/circle_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/circle_03.png",
+  "w": 512
+ },
+ "fx/particles/circle_04.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/circle_04.png",
+  "w": 512
+ },
+ "fx/particles/circle_05.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/circle_05.png",
+  "w": 512
+ },
+ "fx/particles/dirt_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/dirt_01.png",
+  "w": 512
+ },
+ "fx/particles/dirt_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/dirt_02.png",
+  "w": 512
+ },
+ "fx/particles/dirt_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/dirt_03.png",
+  "w": 512
+ },
+ "fx/particles/fire_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/fire_01.png",
+  "w": 512
+ },
+ "fx/particles/fire_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/fire_02.png",
+  "w": 512
+ },
+ "fx/particles/flame_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/flame_01.png",
+  "w": 512
+ },
+ "fx/particles/flame_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/flame_02.png",
+  "w": 512
+ },
+ "fx/particles/flame_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/flame_03.png",
+  "w": 512
+ },
+ "fx/particles/flame_04.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/flame_04.png",
+  "w": 512
+ },
+ "fx/particles/flame_05.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/flame_05.png",
+  "w": 512
+ },
+ "fx/particles/flame_06.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/flame_06.png",
+  "w": 512
+ },
+ "fx/particles/flare_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/flare_01.png",
+  "w": 512
+ },
+ "fx/particles/light_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/light_01.png",
+  "w": 512
+ },
+ "fx/particles/light_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/light_02.png",
+  "w": 512
+ },
+ "fx/particles/light_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/light_03.png",
+  "w": 512
+ },
+ "fx/particles/magic_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/magic_01.png",
+  "w": 512
+ },
+ "fx/particles/magic_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/magic_02.png",
+  "w": 512
+ },
+ "fx/particles/magic_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/magic_03.png",
+  "w": 512
+ },
+ "fx/particles/magic_04.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/magic_04.png",
+  "w": 512
+ },
+ "fx/particles/magic_05.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/magic_05.png",
+  "w": 512
+ },
+ "fx/particles/muzzle_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/muzzle_01.png",
+  "w": 512
+ },
+ "fx/particles/muzzle_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/muzzle_02.png",
+  "w": 512
+ },
+ "fx/particles/muzzle_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/muzzle_03.png",
+  "w": 512
+ },
+ "fx/particles/muzzle_04.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/muzzle_04.png",
+  "w": 512
+ },
+ "fx/particles/muzzle_05.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/muzzle_05.png",
+  "w": 512
+ },
+ "fx/particles/scorch_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/scorch_01.png",
+  "w": 512
+ },
+ "fx/particles/scorch_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/scorch_02.png",
+  "w": 512
+ },
+ "fx/particles/scorch_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/scorch_03.png",
+  "w": 512
+ },
+ "fx/particles/scratch_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/scratch_01.png",
+  "w": 512
+ },
+ "fx/particles/slash_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/slash_01.png",
+  "w": 512
+ },
+ "fx/particles/slash_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/slash_02.png",
+  "w": 512
+ },
+ "fx/particles/slash_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/slash_03.png",
+  "w": 512
+ },
+ "fx/particles/slash_04.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/slash_04.png",
+  "w": 512
+ },
+ "fx/particles/smoke_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/smoke_01.png",
+  "w": 512
+ },
+ "fx/particles/smoke_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/smoke_02.png",
+  "w": 512
+ },
+ "fx/particles/smoke_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/smoke_03.png",
+  "w": 512
+ },
+ "fx/particles/smoke_04.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/smoke_04.png",
+  "w": 512
+ },
+ "fx/particles/smoke_05.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/smoke_05.png",
+  "w": 512
+ },
+ "fx/particles/smoke_06.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/smoke_06.png",
+  "w": 512
+ },
+ "fx/particles/smoke_07.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/smoke_07.png",
+  "w": 512
+ },
+ "fx/particles/smoke_08.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/smoke_08.png",
+  "w": 512
+ },
+ "fx/particles/smoke_09.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/smoke_09.png",
+  "w": 512
+ },
+ "fx/particles/smoke_10.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/smoke_10.png",
+  "w": 512
+ },
+ "fx/particles/spark_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/spark_01.png",
+  "w": 512
+ },
+ "fx/particles/spark_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/spark_02.png",
+  "w": 512
+ },
+ "fx/particles/spark_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/spark_03.png",
+  "w": 512
+ },
+ "fx/particles/spark_04.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/spark_04.png",
+  "w": 512
+ },
+ "fx/particles/spark_05.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/spark_05.png",
+  "w": 512
+ },
+ "fx/particles/spark_06.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/spark_06.png",
+  "w": 512
+ },
+ "fx/particles/spark_07.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/spark_07.png",
+  "w": 512
+ },
+ "fx/particles/star_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/star_01.png",
+  "w": 512
+ },
+ "fx/particles/star_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/star_02.png",
+  "w": 512
+ },
+ "fx/particles/star_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/star_03.png",
+  "w": 512
+ },
+ "fx/particles/star_04.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/star_04.png",
+  "w": 512
+ },
+ "fx/particles/star_05.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/star_05.png",
+  "w": 512
+ },
+ "fx/particles/star_06.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/star_06.png",
+  "w": 512
+ },
+ "fx/particles/star_07.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/star_07.png",
+  "w": 512
+ },
+ "fx/particles/star_08.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/star_08.png",
+  "w": 512
+ },
+ "fx/particles/star_09.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/star_09.png",
+  "w": 512
+ },
+ "fx/particles/symbol_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/symbol_01.png",
+  "w": 512
+ },
+ "fx/particles/symbol_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/symbol_02.png",
+  "w": 512
+ },
+ "fx/particles/trace_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/trace_01.png",
+  "w": 512
+ },
+ "fx/particles/trace_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/trace_02.png",
+  "w": 512
+ },
+ "fx/particles/trace_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/trace_03.png",
+  "w": 512
+ },
+ "fx/particles/trace_04.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/trace_04.png",
+  "w": 512
+ },
+ "fx/particles/trace_05.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/trace_05.png",
+  "w": 512
+ },
+ "fx/particles/trace_06.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/trace_06.png",
+  "w": 512
+ },
+ "fx/particles/trace_07.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/trace_07.png",
+  "w": 512
+ },
+ "fx/particles/twirl_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/twirl_01.png",
+  "w": 512
+ },
+ "fx/particles/twirl_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/twirl_02.png",
+  "w": 512
+ },
+ "fx/particles/twirl_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/twirl_03.png",
+  "w": 512
+ },
+ "fx/particles/window_01.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/window_01.png",
+  "w": 512
+ },
+ "fx/particles/window_02.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/window_02.png",
+  "w": 512
+ },
+ "fx/particles/window_03.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/window_03.png",
+  "w": 512
+ },
+ "fx/particles/window_04.png": {
+  "h": 512,
+  "mode": "P",
+  "source": "k2/kenney_particle-pack/standalone_tiles/PNG (Transparent)/window_04.png",
+  "w": 512
+ },
+ "hub/factory/tile_0000.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0000.png",
+  "w": 16
+ },
+ "hub/factory/tile_0001.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0001.png",
+  "w": 16
+ },
+ "hub/factory/tile_0002.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0002.png",
+  "w": 16
+ },
+ "hub/factory/tile_0003.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0003.png",
+  "w": 16
+ },
+ "hub/factory/tile_0004.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0004.png",
+  "w": 16
+ },
+ "hub/factory/tile_0005.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0005.png",
+  "w": 16
+ },
+ "hub/factory/tile_0006.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0006.png",
+  "w": 16
+ },
+ "hub/factory/tile_0007.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0007.png",
+  "w": 16
+ },
+ "hub/factory/tile_0008.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0008.png",
+  "w": 16
+ },
+ "hub/factory/tile_0009.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0009.png",
+  "w": 16
+ },
+ "hub/factory/tile_0010.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0010.png",
+  "w": 16
+ },
+ "hub/factory/tile_0011.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0011.png",
+  "w": 16
+ },
+ "hub/factory/tile_0012.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0012.png",
+  "w": 16
+ },
+ "hub/factory/tile_0013.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0013.png",
+  "w": 16
+ },
+ "hub/factory/tile_0014.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0014.png",
+  "w": 16
+ },
+ "hub/factory/tile_0015.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0015.png",
+  "w": 16
+ },
+ "hub/factory/tile_0016.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0016.png",
+  "w": 16
+ },
+ "hub/factory/tile_0017.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0017.png",
+  "w": 16
+ },
+ "hub/factory/tile_0018.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0018.png",
+  "w": 16
+ },
+ "hub/factory/tile_0019.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0019.png",
+  "w": 16
+ },
+ "hub/factory/tile_0020.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0020.png",
+  "w": 16
+ },
+ "hub/factory/tile_0021.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0021.png",
+  "w": 16
+ },
+ "hub/factory/tile_0022.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0022.png",
+  "w": 16
+ },
+ "hub/factory/tile_0023.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0023.png",
+  "w": 16
+ },
+ "hub/factory/tile_0024.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0024.png",
+  "w": 16
+ },
+ "hub/factory/tile_0025.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0025.png",
+  "w": 16
+ },
+ "hub/factory/tile_0026.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0026.png",
+  "w": 16
+ },
+ "hub/factory/tile_0027.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0027.png",
+  "w": 16
+ },
+ "hub/factory/tile_0028.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0028.png",
+  "w": 16
+ },
+ "hub/factory/tile_0029.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0029.png",
+  "w": 16
+ },
+ "hub/factory/tile_0030.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0030.png",
+  "w": 16
+ },
+ "hub/factory/tile_0031.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0031.png",
+  "w": 16
+ },
+ "hub/factory/tile_0032.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0032.png",
+  "w": 16
+ },
+ "hub/factory/tile_0033.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0033.png",
+  "w": 16
+ },
+ "hub/factory/tile_0034.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0034.png",
+  "w": 16
+ },
+ "hub/factory/tile_0035.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0035.png",
+  "w": 16
+ },
+ "hub/factory/tile_0036.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0036.png",
+  "w": 16
+ },
+ "hub/factory/tile_0037.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0037.png",
+  "w": 16
+ },
+ "hub/factory/tile_0038.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0038.png",
+  "w": 16
+ },
+ "hub/factory/tile_0039.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0039.png",
+  "w": 16
+ },
+ "hub/factory/tile_0040.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0040.png",
+  "w": 16
+ },
+ "hub/factory/tile_0041.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0041.png",
+  "w": 16
+ },
+ "hub/factory/tile_0042.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0042.png",
+  "w": 16
+ },
+ "hub/factory/tile_0043.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0043.png",
+  "w": 16
+ },
+ "hub/factory/tile_0044.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0044.png",
+  "w": 16
+ },
+ "hub/factory/tile_0045.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0045.png",
+  "w": 16
+ },
+ "hub/factory/tile_0046.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0046.png",
+  "w": 16
+ },
+ "hub/factory/tile_0047.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0047.png",
+  "w": 16
+ },
+ "hub/factory/tile_0048.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0048.png",
+  "w": 16
+ },
+ "hub/factory/tile_0049.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0049.png",
+  "w": 16
+ },
+ "hub/factory/tile_0050.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0050.png",
+  "w": 16
+ },
+ "hub/factory/tile_0051.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0051.png",
+  "w": 16
+ },
+ "hub/factory/tile_0052.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0052.png",
+  "w": 16
+ },
+ "hub/factory/tile_0053.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0053.png",
+  "w": 16
+ },
+ "hub/factory/tile_0054.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0054.png",
+  "w": 16
+ },
+ "hub/factory/tile_0055.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0055.png",
+  "w": 16
+ },
+ "hub/factory/tile_0056.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0056.png",
+  "w": 16
+ },
+ "hub/factory/tile_0057.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0057.png",
+  "w": 16
+ },
+ "hub/factory/tile_0058.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0058.png",
+  "w": 16
+ },
+ "hub/factory/tile_0059.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0059.png",
+  "w": 16
+ },
+ "hub/factory/tile_0060.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0060.png",
+  "w": 16
+ },
+ "hub/factory/tile_0061.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0061.png",
+  "w": 16
+ },
+ "hub/factory/tile_0062.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0062.png",
+  "w": 16
+ },
+ "hub/factory/tile_0063.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0063.png",
+  "w": 16
+ },
+ "hub/factory/tile_0064.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0064.png",
+  "w": 16
+ },
+ "hub/factory/tile_0065.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0065.png",
+  "w": 16
+ },
+ "hub/factory/tile_0066.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0066.png",
+  "w": 16
+ },
+ "hub/factory/tile_0067.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0067.png",
+  "w": 16
+ },
+ "hub/factory/tile_0068.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0068.png",
+  "w": 16
+ },
+ "hub/factory/tile_0069.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0069.png",
+  "w": 16
+ },
+ "hub/factory/tile_0070.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0070.png",
+  "w": 16
+ },
+ "hub/factory/tile_0071.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0071.png",
+  "w": 16
+ },
+ "hub/factory/tile_0072.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0072.png",
+  "w": 16
+ },
+ "hub/factory/tile_0073.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0073.png",
+  "w": 16
+ },
+ "hub/factory/tile_0074.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0074.png",
+  "w": 16
+ },
+ "hub/factory/tile_0075.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0075.png",
+  "w": 16
+ },
+ "hub/factory/tile_0076.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0076.png",
+  "w": 16
+ },
+ "hub/factory/tile_0077.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0077.png",
+  "w": 16
+ },
+ "hub/factory/tile_0078.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0078.png",
+  "w": 16
+ },
+ "hub/factory/tile_0079.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0079.png",
+  "w": 16
+ },
+ "hub/factory/tile_0080.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0080.png",
+  "w": 16
+ },
+ "hub/factory/tile_0081.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0081.png",
+  "w": 16
+ },
+ "hub/factory/tile_0082.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0082.png",
+  "w": 16
+ },
+ "hub/factory/tile_0083.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0083.png",
+  "w": 16
+ },
+ "hub/factory/tile_0084.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0084.png",
+  "w": 16
+ },
+ "hub/factory/tile_0085.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0085.png",
+  "w": 16
+ },
+ "hub/factory/tile_0086.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0086.png",
+  "w": 16
+ },
+ "hub/factory/tile_0087.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0087.png",
+  "w": 16
+ },
+ "hub/factory/tile_0088.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0088.png",
+  "w": 16
+ },
+ "hub/factory/tile_0089.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0089.png",
+  "w": 16
+ },
+ "hub/factory/tile_0090.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0090.png",
+  "w": 16
+ },
+ "hub/factory/tile_0091.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0091.png",
+  "w": 16
+ },
+ "hub/factory/tile_0092.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0092.png",
+  "w": 16
+ },
+ "hub/factory/tile_0093.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0093.png",
+  "w": 16
+ },
+ "hub/factory/tile_0094.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0094.png",
+  "w": 16
+ },
+ "hub/factory/tile_0095.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0095.png",
+  "w": 16
+ },
+ "hub/factory/tile_0096.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0096.png",
+  "w": 16
+ },
+ "hub/factory/tile_0097.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0097.png",
+  "w": 16
+ },
+ "hub/factory/tile_0098.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0098.png",
+  "w": 16
+ },
+ "hub/factory/tile_0099.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0099.png",
+  "w": 16
+ },
+ "hub/factory/tile_0100.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0100.png",
+  "w": 16
+ },
+ "hub/factory/tile_0101.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0101.png",
+  "w": 16
+ },
+ "hub/factory/tile_0102.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0102.png",
+  "w": 16
+ },
+ "hub/factory/tile_0103.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0103.png",
+  "w": 16
+ },
+ "hub/factory/tile_0104.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0104.png",
+  "w": 16
+ },
+ "hub/factory/tile_0105.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0105.png",
+  "w": 16
+ },
+ "hub/factory/tile_0106.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0106.png",
+  "w": 16
+ },
+ "hub/factory/tile_0107.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0107.png",
+  "w": 16
+ },
+ "hub/factory/tile_0108.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0108.png",
+  "w": 16
+ },
+ "hub/factory/tile_0109.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0109.png",
+  "w": 16
+ },
+ "hub/factory/tile_0110.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0110.png",
+  "w": 16
+ },
+ "hub/factory/tile_0111.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0111.png",
+  "w": 16
+ },
+ "hub/factory/tile_0112.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0112.png",
+  "w": 16
+ },
+ "hub/factory/tile_0113.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0113.png",
+  "w": 16
+ },
+ "hub/factory/tile_0114.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0114.png",
+  "w": 16
+ },
+ "hub/factory/tile_0115.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0115.png",
+  "w": 16
+ },
+ "hub/factory/tile_0116.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0116.png",
+  "w": 16
+ },
+ "hub/factory/tile_0117.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0117.png",
+  "w": 16
+ },
+ "hub/factory/tile_0118.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0118.png",
+  "w": 16
+ },
+ "hub/factory/tile_0119.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0119.png",
+  "w": 16
+ },
+ "hub/factory/tile_0120.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0120.png",
+  "w": 16
+ },
+ "hub/factory/tile_0121.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0121.png",
+  "w": 16
+ },
+ "hub/factory/tile_0122.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0122.png",
+  "w": 16
+ },
+ "hub/factory/tile_0123.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0123.png",
+  "w": 16
+ },
+ "hub/factory/tile_0124.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0124.png",
+  "w": 16
+ },
+ "hub/factory/tile_0125.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0125.png",
+  "w": 16
+ },
+ "hub/factory/tile_0126.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0126.png",
+  "w": 16
+ },
+ "hub/factory/tile_0127.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0127.png",
+  "w": 16
+ },
+ "hub/factory/tile_0128.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0128.png",
+  "w": 16
+ },
+ "hub/factory/tile_0129.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0129.png",
+  "w": 16
+ },
+ "hub/factory/tile_0130.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0130.png",
+  "w": 16
+ },
+ "hub/factory/tile_0131.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_tiny-factory/standalone_tiles/Tiles/tile_0131.png",
+  "w": 16
+ },
+ "hub/modular/cables.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/cables.png",
+  "w": 64
+ },
+ "hub/modular/corridor-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor-corner.png",
+  "w": 64
+ },
+ "hub/modular/corridor-end.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor-end.png",
+  "w": 64
+ },
+ "hub/modular/corridor-intersection.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor-intersection.png",
+  "w": 64
+ },
+ "hub/modular/corridor-junction.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor-junction.png",
+  "w": 64
+ },
+ "hub/modular/corridor-transition.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor-transition.png",
+  "w": 64
+ },
+ "hub/modular/corridor-wide-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor-wide-corner.png",
+  "w": 64
+ },
+ "hub/modular/corridor-wide-end.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor-wide-end.png",
+  "w": 64
+ },
+ "hub/modular/corridor-wide-intersection.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor-wide-intersection.png",
+  "w": 64
+ },
+ "hub/modular/corridor-wide-junction.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor-wide-junction.png",
+  "w": 64
+ },
+ "hub/modular/corridor-wide.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor-wide.png",
+  "w": 64
+ },
+ "hub/modular/corridor.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/corridor.png",
+  "w": 64
+ },
+ "hub/modular/gate-door-window.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/gate-door-window.png",
+  "w": 64
+ },
+ "hub/modular/gate-door.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/gate-door.png",
+  "w": 64
+ },
+ "hub/modular/gate-lasers.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/gate-lasers.png",
+  "w": 64
+ },
+ "hub/modular/gate.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/gate.png",
+  "w": 64
+ },
+ "hub/modular/room-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/room-corner.png",
+  "w": 64
+ },
+ "hub/modular/room-large-variation.png": {
+  "h": 64,
+  "mode": "RGBA",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/room-large-variation.png",
+  "w": 64
+ },
+ "hub/modular/room-large.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/room-large.png",
+  "w": 64
+ },
+ "hub/modular/room-small-variation.png": {
+  "h": 64,
+  "mode": "RGBA",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/room-small-variation.png",
+  "w": 64
+ },
+ "hub/modular/room-small.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/room-small.png",
+  "w": 64
+ },
+ "hub/modular/room-wide-variation.png": {
+  "h": 64,
+  "mode": "RGBA",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/room-wide-variation.png",
+  "w": 64
+ },
+ "hub/modular/room-wide.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/room-wide.png",
+  "w": 64
+ },
+ "hub/modular/stairs-wide.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/stairs-wide.png",
+  "w": 64
+ },
+ "hub/modular/stairs.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/stairs.png",
+  "w": 64
+ },
+ "hub/modular/template-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-corner.png",
+  "w": 64
+ },
+ "hub/modular/template-detail.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-detail.png",
+  "w": 64
+ },
+ "hub/modular/template-floor-big.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-floor-big.png",
+  "w": 64
+ },
+ "hub/modular/template-floor-detail-a.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-floor-detail-a.png",
+  "w": 64
+ },
+ "hub/modular/template-floor-detail.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-floor-detail.png",
+  "w": 64
+ },
+ "hub/modular/template-floor-layer-hole.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-floor-layer-hole.png",
+  "w": 64
+ },
+ "hub/modular/template-floor-layer-raised.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-floor-layer-raised.png",
+  "w": 64
+ },
+ "hub/modular/template-floor-layer.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-floor-layer.png",
+  "w": 64
+ },
+ "hub/modular/template-floor.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-floor.png",
+  "w": 64
+ },
+ "hub/modular/template-wall-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-wall-corner.png",
+  "w": 64
+ },
+ "hub/modular/template-wall-detail-a.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-wall-detail-a.png",
+  "w": 64
+ },
+ "hub/modular/template-wall-half.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-wall-half.png",
+  "w": 64
+ },
+ "hub/modular/template-wall-stairs.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-wall-stairs.png",
+  "w": 64
+ },
+ "hub/modular/template-wall-top.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-wall-top.png",
+  "w": 64
+ },
+ "hub/modular/template-wall.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k2/kenney_modular-space-kit_1.0/standalone_tiles/Previews/template-wall.png",
+  "w": 64
+ },
+ "hub/station/balcony-floor-center.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/balcony-floor-center.png",
+  "w": 64
+ },
+ "hub/station/balcony-floor-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/balcony-floor-corner.png",
+  "w": 64
+ },
+ "hub/station/balcony-floor.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/balcony-floor.png",
+  "w": 64
+ },
+ "hub/station/balcony-rail-center.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/balcony-rail-center.png",
+  "w": 64
+ },
+ "hub/station/balcony-rail-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/balcony-rail-corner.png",
+  "w": 64
+ },
+ "hub/station/balcony-rail.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/balcony-rail.png",
+  "w": 64
+ },
+ "hub/station/bed-double-cover.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/bed-double-cover.png",
+  "w": 64
+ },
+ "hub/station/bed-double.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/bed-double.png",
+  "w": 64
+ },
+ "hub/station/bed-single-cover.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/bed-single-cover.png",
+  "w": 64
+ },
+ "hub/station/bed-single.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/bed-single.png",
+  "w": 64
+ },
+ "hub/station/chair-armrest-headrest.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/chair-armrest-headrest.png",
+  "w": 64
+ },
+ "hub/station/chair-armrest.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/chair-armrest.png",
+  "w": 64
+ },
+ "hub/station/chair-cushion-headrest.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/chair-cushion-headrest.png",
+  "w": 64
+ },
+ "hub/station/chair-cushion.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/chair-cushion.png",
+  "w": 64
+ },
+ "hub/station/chair-headrest.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/chair-headrest.png",
+  "w": 64
+ },
+ "hub/station/chair.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/chair.png",
+  "w": 64
+ },
+ "hub/station/computer-screen.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/computer-screen.png",
+  "w": 64
+ },
+ "hub/station/computer-system.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/computer-system.png",
+  "w": 64
+ },
+ "hub/station/computer-wide.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/computer-wide.png",
+  "w": 64
+ },
+ "hub/station/computer.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/computer.png",
+  "w": 64
+ },
+ "hub/station/container-flat-open.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/container-flat-open.png",
+  "w": 64
+ },
+ "hub/station/container-flat.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/container-flat.png",
+  "w": 64
+ },
+ "hub/station/container-tall.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/container-tall.png",
+  "w": 64
+ },
+ "hub/station/container-wide.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/container-wide.png",
+  "w": 64
+ },
+ "hub/station/container.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/container.png",
+  "w": 64
+ },
+ "hub/station/display-wall-wide.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/display-wall-wide.png",
+  "w": 64
+ },
+ "hub/station/display-wall.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/display-wall.png",
+  "w": 64
+ },
+ "hub/station/door-double-closed.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/door-double-closed.png",
+  "w": 64
+ },
+ "hub/station/door-double-half.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/door-double-half.png",
+  "w": 64
+ },
+ "hub/station/door-double.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/door-double.png",
+  "w": 64
+ },
+ "hub/station/door-single-closed.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/door-single-closed.png",
+  "w": 64
+ },
+ "hub/station/door-single-half.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/door-single-half.png",
+  "w": 64
+ },
+ "hub/station/door-single.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/door-single.png",
+  "w": 64
+ },
+ "hub/station/floor-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/floor-corner.png",
+  "w": 64
+ },
+ "hub/station/floor-detail.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/floor-detail.png",
+  "w": 64
+ },
+ "hub/station/floor-panel-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/floor-panel-corner.png",
+  "w": 64
+ },
+ "hub/station/floor-panel-end.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/floor-panel-end.png",
+  "w": 64
+ },
+ "hub/station/floor-panel-straight.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/floor-panel-straight.png",
+  "w": 64
+ },
+ "hub/station/floor-panel.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/floor-panel.png",
+  "w": 64
+ },
+ "hub/station/floor.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/floor.png",
+  "w": 64
+ },
+ "hub/station/pipe-bend-diagonal.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/pipe-bend-diagonal.png",
+  "w": 64
+ },
+ "hub/station/pipe-bend.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/pipe-bend.png",
+  "w": 64
+ },
+ "hub/station/pipe-end-colored.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/pipe-end-colored.png",
+  "w": 64
+ },
+ "hub/station/pipe-end.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/pipe-end.png",
+  "w": 64
+ },
+ "hub/station/pipe-ring-colored.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/pipe-ring-colored.png",
+  "w": 64
+ },
+ "hub/station/pipe-ring.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/pipe-ring.png",
+  "w": 64
+ },
+ "hub/station/pipe.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/pipe.png",
+  "w": 64
+ },
+ "hub/station/rail-narrow.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/rail-narrow.png",
+  "w": 64
+ },
+ "hub/station/rail.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/rail.png",
+  "w": 64
+ },
+ "hub/station/rocks.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/rocks.png",
+  "w": 64
+ },
+ "hub/station/skip-rocks.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/skip-rocks.png",
+  "w": 64
+ },
+ "hub/station/skip.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/skip.png",
+  "w": 64
+ },
+ "hub/station/stairs-corner-inner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-corner-inner.png",
+  "w": 64
+ },
+ "hub/station/stairs-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-corner.png",
+  "w": 64
+ },
+ "hub/station/stairs-handrail-single.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-handrail-single.png",
+  "w": 64
+ },
+ "hub/station/stairs-handrail.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-handrail.png",
+  "w": 64
+ },
+ "hub/station/stairs-ramp.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-ramp.png",
+  "w": 64
+ },
+ "hub/station/stairs-small-center.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-small-center.png",
+  "w": 64
+ },
+ "hub/station/stairs-small-corner-inner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-small-corner-inner.png",
+  "w": 64
+ },
+ "hub/station/stairs-small-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-small-corner.png",
+  "w": 64
+ },
+ "hub/station/stairs-small-edge-handrail.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-small-edge-handrail.png",
+  "w": 64
+ },
+ "hub/station/stairs-small-edge.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-small-edge.png",
+  "w": 64
+ },
+ "hub/station/stairs-small-edges-handrail.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-small-edges-handrail.png",
+  "w": 64
+ },
+ "hub/station/stairs-small-edges.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs-small-edges.png",
+  "w": 64
+ },
+ "hub/station/stairs.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/stairs.png",
+  "w": 64
+ },
+ "hub/station/structure-barrier-high.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/structure-barrier-high.png",
+  "w": 64
+ },
+ "hub/station/structure-barrier.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/structure-barrier.png",
+  "w": 64
+ },
+ "hub/station/structure-panel.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/structure-panel.png",
+  "w": 64
+ },
+ "hub/station/structure.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/structure.png",
+  "w": 64
+ },
+ "hub/station/table-display-planet.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/table-display-planet.png",
+  "w": 64
+ },
+ "hub/station/table-display-small.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/table-display-small.png",
+  "w": 64
+ },
+ "hub/station/table-display.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/table-display.png",
+  "w": 64
+ },
+ "hub/station/table-inset-small.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/table-inset-small.png",
+  "w": 64
+ },
+ "hub/station/table-inset.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/table-inset.png",
+  "w": 64
+ },
+ "hub/station/table-large.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/table-large.png",
+  "w": 64
+ },
+ "hub/station/table.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/table.png",
+  "w": 64
+ },
+ "hub/station/wall-banner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-banner.png",
+  "w": 64
+ },
+ "hub/station/wall-corner-banner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-corner-banner.png",
+  "w": 64
+ },
+ "hub/station/wall-corner-round-banner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-corner-round-banner.png",
+  "w": 64
+ },
+ "hub/station/wall-corner-round.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-corner-round.png",
+  "w": 64
+ },
+ "hub/station/wall-corner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-corner.png",
+  "w": 64
+ },
+ "hub/station/wall-detail.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-detail.png",
+  "w": 64
+ },
+ "hub/station/wall-door-banner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-door-banner.png",
+  "w": 64
+ },
+ "hub/station/wall-door-center.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-door-center.png",
+  "w": 64
+ },
+ "hub/station/wall-door-edge-banner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-door-edge-banner.png",
+  "w": 64
+ },
+ "hub/station/wall-door-edge.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-door-edge.png",
+  "w": 64
+ },
+ "hub/station/wall-door-wide-banner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-door-wide-banner.png",
+  "w": 64
+ },
+ "hub/station/wall-door-wide.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-door-wide.png",
+  "w": 64
+ },
+ "hub/station/wall-door.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-door.png",
+  "w": 64
+ },
+ "hub/station/wall-pillar-banner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-pillar-banner.png",
+  "w": 64
+ },
+ "hub/station/wall-pillar.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-pillar.png",
+  "w": 64
+ },
+ "hub/station/wall-switch.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-switch.png",
+  "w": 64
+ },
+ "hub/station/wall-window-banner.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-window-banner.png",
+  "w": 64
+ },
+ "hub/station/wall-window-frame.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-window-frame.png",
+  "w": 64
+ },
+ "hub/station/wall-window-shutters.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-window-shutters.png",
+  "w": 64
+ },
+ "hub/station/wall-window.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall-window.png",
+  "w": 64
+ },
+ "hub/station/wall.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_space-station-kit/standalone_tiles/Previews/wall.png",
+  "w": 64
+ },
+ "ui/blue/bar_round_gloss_large.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_gloss_large.png",
+  "w": 96
+ },
+ "ui/blue/bar_round_gloss_large_l.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_gloss_large_l.png",
+  "w": 12
+ },
+ "ui/blue/bar_round_gloss_large_m.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_gloss_large_m.png",
+  "w": 24
+ },
+ "ui/blue/bar_round_gloss_large_r.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_gloss_large_r.png",
+  "w": 12
+ },
+ "ui/blue/bar_round_gloss_large_square.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_gloss_large_square.png",
+  "w": 24
+ },
+ "ui/blue/bar_round_gloss_small.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_gloss_small.png",
+  "w": 96
+ },
+ "ui/blue/bar_round_gloss_small_l.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_gloss_small_l.png",
+  "w": 8
+ },
+ "ui/blue/bar_round_gloss_small_m.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_gloss_small_m.png",
+  "w": 16
+ },
+ "ui/blue/bar_round_gloss_small_r.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_gloss_small_r.png",
+  "w": 8
+ },
+ "ui/blue/bar_round_gloss_small_square.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_gloss_small_square.png",
+  "w": 16
+ },
+ "ui/blue/bar_round_large.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_large.png",
+  "w": 96
+ },
+ "ui/blue/bar_round_large_l.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_large_l.png",
+  "w": 12
+ },
+ "ui/blue/bar_round_large_m.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_large_m.png",
+  "w": 24
+ },
+ "ui/blue/bar_round_large_r.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_large_r.png",
+  "w": 12
+ },
+ "ui/blue/bar_round_large_square.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_large_square.png",
+  "w": 24
+ },
+ "ui/blue/bar_round_small.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_small.png",
+  "w": 96
+ },
+ "ui/blue/bar_round_small_l.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_small_l.png",
+  "w": 8
+ },
+ "ui/blue/bar_round_small_m.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_small_m.png",
+  "w": 16
+ },
+ "ui/blue/bar_round_small_r.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_small_r.png",
+  "w": 8
+ },
+ "ui/blue/bar_round_small_square.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_round_small_square.png",
+  "w": 16
+ },
+ "ui/blue/bar_square_gloss_large.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_gloss_large.png",
+  "w": 96
+ },
+ "ui/blue/bar_square_gloss_large_l.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_gloss_large_l.png",
+  "w": 12
+ },
+ "ui/blue/bar_square_gloss_large_m.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_gloss_large_m.png",
+  "w": 24
+ },
+ "ui/blue/bar_square_gloss_large_r.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_gloss_large_r.png",
+  "w": 12
+ },
+ "ui/blue/bar_square_gloss_large_square.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_gloss_large_square.png",
+  "w": 24
+ },
+ "ui/blue/bar_square_gloss_small.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_gloss_small.png",
+  "w": 96
+ },
+ "ui/blue/bar_square_gloss_small_l.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_gloss_small_l.png",
+  "w": 8
+ },
+ "ui/blue/bar_square_gloss_small_m.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_gloss_small_m.png",
+  "w": 16
+ },
+ "ui/blue/bar_square_gloss_small_r.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_gloss_small_r.png",
+  "w": 8
+ },
+ "ui/blue/bar_square_gloss_small_square.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_gloss_small_square.png",
+  "w": 16
+ },
+ "ui/blue/bar_square_large.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_large.png",
+  "w": 96
+ },
+ "ui/blue/bar_square_large_l.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_large_l.png",
+  "w": 12
+ },
+ "ui/blue/bar_square_large_m.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_large_m.png",
+  "w": 24
+ },
+ "ui/blue/bar_square_large_r.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_large_r.png",
+  "w": 12
+ },
+ "ui/blue/bar_square_large_square.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_large_square.png",
+  "w": 24
+ },
+ "ui/blue/bar_square_small.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_small.png",
+  "w": 96
+ },
+ "ui/blue/bar_square_small_l.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_small_l.png",
+  "w": 8
+ },
+ "ui/blue/bar_square_small_m.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_small_m.png",
+  "w": 16
+ },
+ "ui/blue/bar_square_small_r.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_small_r.png",
+  "w": 8
+ },
+ "ui/blue/bar_square_small_square.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/bar_square_small_square.png",
+  "w": 16
+ },
+ "ui/blue/button_square_header_blade_rectangle.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_blade_rectangle.png",
+  "w": 192
+ },
+ "ui/blue/button_square_header_blade_rectangle_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_blade_rectangle_screws.png",
+  "w": 192
+ },
+ "ui/blue/button_square_header_blade_square.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_blade_square.png",
+  "w": 64
+ },
+ "ui/blue/button_square_header_blade_square_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_blade_square_screws.png",
+  "w": 64
+ },
+ "ui/blue/button_square_header_large_rectangle.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_large_rectangle.png",
+  "w": 192
+ },
+ "ui/blue/button_square_header_large_rectangle_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_large_rectangle_screws.png",
+  "w": 192
+ },
+ "ui/blue/button_square_header_large_square.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_large_square.png",
+  "w": 64
+ },
+ "ui/blue/button_square_header_large_square_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_large_square_screws.png",
+  "w": 64
+ },
+ "ui/blue/button_square_header_notch_rectangle.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_notch_rectangle.png",
+  "w": 192
+ },
+ "ui/blue/button_square_header_notch_rectangle_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_notch_rectangle_screws.png",
+  "w": 192
+ },
+ "ui/blue/button_square_header_notch_square.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_notch_square.png",
+  "w": 64
+ },
+ "ui/blue/button_square_header_notch_square_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_notch_square_screws.png",
+  "w": 64
+ },
+ "ui/blue/button_square_header_small_rectangle.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_small_rectangle.png",
+  "w": 192
+ },
+ "ui/blue/button_square_header_small_rectangle_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_small_rectangle_screws.png",
+  "w": 192
+ },
+ "ui/blue/button_square_header_small_square.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_small_square.png",
+  "w": 64
+ },
+ "ui/blue/button_square_header_small_square_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/button_square_header_small_square_screws.png",
+  "w": 64
+ },
+ "ui/blue/crosshair_color_a.png": {
+  "h": 30,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/crosshair_color_a.png",
+  "w": 30
+ },
+ "ui/blue/crosshair_color_b.png": {
+  "h": 28,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/crosshair_color_b.png",
+  "w": 28
+ },
+ "ui/blue/crosshair_color_c.png": {
+  "h": 30,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/crosshair_color_c.png",
+  "w": 30
+ },
+ "ui/blue/crosshair_color_d.png": {
+  "h": 28,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Blue/Default/crosshair_color_d.png",
+  "w": 28
+ },
+ "ui/icons/arrowDown.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/arrowDown.png",
+  "w": 50
+ },
+ "ui/icons/arrowLeft.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/arrowLeft.png",
+  "w": 50
+ },
+ "ui/icons/arrowRight.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/arrowRight.png",
+  "w": 50
+ },
+ "ui/icons/arrowUp.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/arrowUp.png",
+  "w": 50
+ },
+ "ui/icons/audioOff.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/audioOff.png",
+  "w": 50
+ },
+ "ui/icons/audioOn.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/audioOn.png",
+  "w": 50
+ },
+ "ui/icons/backward.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/backward.png",
+  "w": 50
+ },
+ "ui/icons/barsHorizontal.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/barsHorizontal.png",
+  "w": 50
+ },
+ "ui/icons/barsVertical.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/barsVertical.png",
+  "w": 50
+ },
+ "ui/icons/basket.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/basket.png",
+  "w": 50
+ },
+ "ui/icons/button1.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/button1.png",
+  "w": 50
+ },
+ "ui/icons/button2.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/button2.png",
+  "w": 50
+ },
+ "ui/icons/button3.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/button3.png",
+  "w": 50
+ },
+ "ui/icons/buttonA.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonA.png",
+  "w": 50
+ },
+ "ui/icons/buttonB.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonB.png",
+  "w": 50
+ },
+ "ui/icons/buttonL.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonL.png",
+  "w": 50
+ },
+ "ui/icons/buttonL1.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonL1.png",
+  "w": 50
+ },
+ "ui/icons/buttonL2.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonL2.png",
+  "w": 50
+ },
+ "ui/icons/buttonR.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonR.png",
+  "w": 50
+ },
+ "ui/icons/buttonR1.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonR1.png",
+  "w": 50
+ },
+ "ui/icons/buttonR2.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonR2.png",
+  "w": 50
+ },
+ "ui/icons/buttonSelect.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonSelect.png",
+  "w": 50
+ },
+ "ui/icons/buttonStart.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonStart.png",
+  "w": 50
+ },
+ "ui/icons/buttonX.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonX.png",
+  "w": 50
+ },
+ "ui/icons/buttonY.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/buttonY.png",
+  "w": 50
+ },
+ "ui/icons/cart.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/cart.png",
+  "w": 50
+ },
+ "ui/icons/checkmark.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/checkmark.png",
+  "w": 50
+ },
+ "ui/icons/contrast.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/contrast.png",
+  "w": 50
+ },
+ "ui/icons/cross.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/cross.png",
+  "w": 50
+ },
+ "ui/icons/door.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/door.png",
+  "w": 50
+ },
+ "ui/icons/down.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/down.png",
+  "w": 50
+ },
+ "ui/icons/downLeft.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/downLeft.png",
+  "w": 50
+ },
+ "ui/icons/downRight.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/downRight.png",
+  "w": 50
+ },
+ "ui/icons/exclamation.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/exclamation.png",
+  "w": 50
+ },
+ "ui/icons/exitLeft.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/exitLeft.png",
+  "w": 50
+ },
+ "ui/icons/exitRight.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/exitRight.png",
+  "w": 50
+ },
+ "ui/icons/export.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/export.png",
+  "w": 50
+ },
+ "ui/icons/fastForward.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/fastForward.png",
+  "w": 50
+ },
+ "ui/icons/film.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/film.png",
+  "w": 50
+ },
+ "ui/icons/forward.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/forward.png",
+  "w": 50
+ },
+ "ui/icons/gamepad.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/gamepad.png",
+  "w": 50
+ },
+ "ui/icons/gamepad1.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/gamepad1.png",
+  "w": 50
+ },
+ "ui/icons/gamepad2.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/gamepad2.png",
+  "w": 50
+ },
+ "ui/icons/gamepad3.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/gamepad3.png",
+  "w": 50
+ },
+ "ui/icons/gamepad4.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/gamepad4.png",
+  "w": 50
+ },
+ "ui/icons/gear.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/gear.png",
+  "w": 50
+ },
+ "ui/icons/home.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/home.png",
+  "w": 50
+ },
+ "ui/icons/import.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/import.png",
+  "w": 50
+ },
+ "ui/icons/information.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/information.png",
+  "w": 50
+ },
+ "ui/icons/joystick.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/joystick.png",
+  "w": 50
+ },
+ "ui/icons/joystickLeft.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/joystickLeft.png",
+  "w": 50
+ },
+ "ui/icons/joystickRight.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/joystickRight.png",
+  "w": 50
+ },
+ "ui/icons/joystickUp.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/joystickUp.png",
+  "w": 50
+ },
+ "ui/icons/larger.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/larger.png",
+  "w": 50
+ },
+ "ui/icons/leaderboardsComplex.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/leaderboardsComplex.png",
+  "w": 50
+ },
+ "ui/icons/leaderboardsSimple.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/leaderboardsSimple.png",
+  "w": 50
+ },
+ "ui/icons/locked.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/locked.png",
+  "w": 50
+ },
+ "ui/icons/massiveMultiplayer.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/massiveMultiplayer.png",
+  "w": 50
+ },
+ "ui/icons/medal1.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/medal1.png",
+  "w": 50
+ },
+ "ui/icons/medal2.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/medal2.png",
+  "w": 50
+ },
+ "ui/icons/menuGrid.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/menuGrid.png",
+  "w": 50
+ },
+ "ui/icons/menuList.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/menuList.png",
+  "w": 50
+ },
+ "ui/icons/minus.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/minus.png",
+  "w": 50
+ },
+ "ui/icons/mouse.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/mouse.png",
+  "w": 50
+ },
+ "ui/icons/multiplayer.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/multiplayer.png",
+  "w": 50
+ },
+ "ui/icons/musicOff.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/musicOff.png",
+  "w": 50
+ },
+ "ui/icons/musicOn.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/musicOn.png",
+  "w": 50
+ },
+ "ui/icons/next.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/next.png",
+  "w": 50
+ },
+ "ui/icons/open.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/open.png",
+  "w": 50
+ },
+ "ui/icons/pause.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/pause.png",
+  "w": 50
+ },
+ "ui/icons/phone.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/phone.png",
+  "w": 50
+ },
+ "ui/icons/plus.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/plus.png",
+  "w": 50
+ },
+ "ui/icons/power.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/power.png",
+  "w": 50
+ },
+ "ui/icons/previous.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/previous.png",
+  "w": 50
+ },
+ "ui/icons/question.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/question.png",
+  "w": 50
+ },
+ "ui/icons/return.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/return.png",
+  "w": 50
+ },
+ "ui/icons/rewind.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/rewind.png",
+  "w": 50
+ },
+ "ui/icons/save.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/save.png",
+  "w": 50
+ },
+ "ui/icons/scrollHorizontal.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/scrollHorizontal.png",
+  "w": 50
+ },
+ "ui/icons/scrollVertical.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/scrollVertical.png",
+  "w": 50
+ },
+ "ui/icons/share1.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/share1.png",
+  "w": 50
+ },
+ "ui/icons/share2.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/share2.png",
+  "w": 50
+ },
+ "ui/icons/signal1.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/signal1.png",
+  "w": 50
+ },
+ "ui/icons/signal2.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/signal2.png",
+  "w": 50
+ },
+ "ui/icons/signal3.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/signal3.png",
+  "w": 50
+ },
+ "ui/icons/singleplayer.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/singleplayer.png",
+  "w": 50
+ },
+ "ui/icons/smaller.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/smaller.png",
+  "w": 50
+ },
+ "ui/icons/star.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/star.png",
+  "w": 50
+ },
+ "ui/icons/stop.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/stop.png",
+  "w": 50
+ },
+ "ui/icons/tablet.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/tablet.png",
+  "w": 50
+ },
+ "ui/icons/target.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/target.png",
+  "w": 50
+ },
+ "ui/icons/trashcan.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/trashcan.png",
+  "w": 50
+ },
+ "ui/icons/trashcanOpen.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/trashcanOpen.png",
+  "w": 50
+ },
+ "ui/icons/trophy.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/trophy.png",
+  "w": 50
+ },
+ "ui/icons/unlocked.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/unlocked.png",
+  "w": 50
+ },
+ "ui/icons/up.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/up.png",
+  "w": 50
+ },
+ "ui/icons/upLeft.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/upLeft.png",
+  "w": 50
+ },
+ "ui/icons/upRight.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/upRight.png",
+  "w": 50
+ },
+ "ui/icons/video.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/video.png",
+  "w": 50
+ },
+ "ui/icons/warning.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/warning.png",
+  "w": 50
+ },
+ "ui/icons/wrench.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/wrench.png",
+  "w": 50
+ },
+ "ui/icons/zoom.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/zoom.png",
+  "w": 50
+ },
+ "ui/icons/zoomDefault.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/zoomDefault.png",
+  "w": 50
+ },
+ "ui/icons/zoomIn.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/zoomIn.png",
+  "w": 50
+ },
+ "ui/icons/zoomOut.png": {
+  "h": 50,
+  "mode": "RGBA",
+  "source": "k1/kenney_game-icons/sheet_white1x/zoomOut.png",
+  "w": 50
+ },
+ "ui/red/bar_round_gloss_large.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_gloss_large.png",
+  "w": 96
+ },
+ "ui/red/bar_round_gloss_large_l.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_gloss_large_l.png",
+  "w": 12
+ },
+ "ui/red/bar_round_gloss_large_m.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_gloss_large_m.png",
+  "w": 24
+ },
+ "ui/red/bar_round_gloss_large_r.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_gloss_large_r.png",
+  "w": 12
+ },
+ "ui/red/bar_round_gloss_large_square.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_gloss_large_square.png",
+  "w": 24
+ },
+ "ui/red/bar_round_gloss_small.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_gloss_small.png",
+  "w": 96
+ },
+ "ui/red/bar_round_gloss_small_l.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_gloss_small_l.png",
+  "w": 8
+ },
+ "ui/red/bar_round_gloss_small_m.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_gloss_small_m.png",
+  "w": 16
+ },
+ "ui/red/bar_round_gloss_small_r.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_gloss_small_r.png",
+  "w": 8
+ },
+ "ui/red/bar_round_gloss_small_square.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_gloss_small_square.png",
+  "w": 16
+ },
+ "ui/red/bar_round_large.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_large.png",
+  "w": 96
+ },
+ "ui/red/bar_round_large_l.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_large_l.png",
+  "w": 12
+ },
+ "ui/red/bar_round_large_m.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_large_m.png",
+  "w": 24
+ },
+ "ui/red/bar_round_large_r.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_large_r.png",
+  "w": 12
+ },
+ "ui/red/bar_round_large_square.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_large_square.png",
+  "w": 24
+ },
+ "ui/red/bar_round_small.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_small.png",
+  "w": 96
+ },
+ "ui/red/bar_round_small_l.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_small_l.png",
+  "w": 8
+ },
+ "ui/red/bar_round_small_m.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_small_m.png",
+  "w": 16
+ },
+ "ui/red/bar_round_small_r.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_small_r.png",
+  "w": 8
+ },
+ "ui/red/bar_round_small_square.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_round_small_square.png",
+  "w": 16
+ },
+ "ui/red/bar_square_gloss_large.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_gloss_large.png",
+  "w": 96
+ },
+ "ui/red/bar_square_gloss_large_l.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_gloss_large_l.png",
+  "w": 12
+ },
+ "ui/red/bar_square_gloss_large_m.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_gloss_large_m.png",
+  "w": 24
+ },
+ "ui/red/bar_square_gloss_large_r.png": {
+  "h": 24,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_gloss_large_r.png",
+  "w": 12
+ },
+ "ui/red/bar_square_gloss_large_square.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_gloss_large_square.png",
+  "w": 24
+ },
+ "ui/red/bar_square_gloss_small.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_gloss_small.png",
+  "w": 96
+ },
+ "ui/red/bar_square_gloss_small_l.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_gloss_small_l.png",
+  "w": 8
+ },
+ "ui/red/bar_square_gloss_small_m.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_gloss_small_m.png",
+  "w": 16
+ },
+ "ui/red/bar_square_gloss_small_r.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_gloss_small_r.png",
+  "w": 8
+ },
+ "ui/red/bar_square_gloss_small_square.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_gloss_small_square.png",
+  "w": 16
+ },
+ "ui/red/bar_square_large.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_large.png",
+  "w": 96
+ },
+ "ui/red/bar_square_large_l.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_large_l.png",
+  "w": 12
+ },
+ "ui/red/bar_square_large_m.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_large_m.png",
+  "w": 24
+ },
+ "ui/red/bar_square_large_r.png": {
+  "h": 24,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_large_r.png",
+  "w": 12
+ },
+ "ui/red/bar_square_large_square.png": {
+  "h": 24,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_large_square.png",
+  "w": 24
+ },
+ "ui/red/bar_square_small.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_small.png",
+  "w": 96
+ },
+ "ui/red/bar_square_small_l.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_small_l.png",
+  "w": 8
+ },
+ "ui/red/bar_square_small_m.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_small_m.png",
+  "w": 16
+ },
+ "ui/red/bar_square_small_r.png": {
+  "h": 16,
+  "mode": "RGBA",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_small_r.png",
+  "w": 8
+ },
+ "ui/red/bar_square_small_square.png": {
+  "h": 16,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/bar_square_small_square.png",
+  "w": 16
+ },
+ "ui/red/button_square_header_blade_rectangle.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_blade_rectangle.png",
+  "w": 192
+ },
+ "ui/red/button_square_header_blade_rectangle_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_blade_rectangle_screws.png",
+  "w": 192
+ },
+ "ui/red/button_square_header_blade_square.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_blade_square.png",
+  "w": 64
+ },
+ "ui/red/button_square_header_blade_square_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_blade_square_screws.png",
+  "w": 64
+ },
+ "ui/red/button_square_header_large_rectangle.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_large_rectangle.png",
+  "w": 192
+ },
+ "ui/red/button_square_header_large_rectangle_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_large_rectangle_screws.png",
+  "w": 192
+ },
+ "ui/red/button_square_header_large_square.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_large_square.png",
+  "w": 64
+ },
+ "ui/red/button_square_header_large_square_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_large_square_screws.png",
+  "w": 64
+ },
+ "ui/red/button_square_header_notch_rectangle.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_notch_rectangle.png",
+  "w": 192
+ },
+ "ui/red/button_square_header_notch_rectangle_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_notch_rectangle_screws.png",
+  "w": 192
+ },
+ "ui/red/button_square_header_notch_square.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_notch_square.png",
+  "w": 64
+ },
+ "ui/red/button_square_header_notch_square_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_notch_square_screws.png",
+  "w": 64
+ },
+ "ui/red/button_square_header_small_rectangle.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_small_rectangle.png",
+  "w": 192
+ },
+ "ui/red/button_square_header_small_rectangle_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_small_rectangle_screws.png",
+  "w": 192
+ },
+ "ui/red/button_square_header_small_square.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_small_square.png",
+  "w": 64
+ },
+ "ui/red/button_square_header_small_square_screws.png": {
+  "h": 64,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/button_square_header_small_square_screws.png",
+  "w": 64
+ },
+ "ui/red/crosshair_color_a.png": {
+  "h": 30,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/crosshair_color_a.png",
+  "w": 30
+ },
+ "ui/red/crosshair_color_b.png": {
+  "h": 28,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/crosshair_color_b.png",
+  "w": 28
+ },
+ "ui/red/crosshair_color_c.png": {
+  "h": 30,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/crosshair_color_c.png",
+  "w": 30
+ },
+ "ui/red/crosshair_color_d.png": {
+  "h": 28,
+  "mode": "P",
+  "source": "k3/kenney_ui-pack-space-expansion/standalone_tiles/PNG/Red/Default/crosshair_color_d.png",
+  "w": 28
+ }
+}

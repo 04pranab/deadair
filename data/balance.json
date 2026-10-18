@@ -1,0 +1,335 @@
+{
+  "player": {
+    "hp": 100,
+    "radius": 13,
+    "speed": 185,
+    "carry_speed_mult": 0.8,
+    "fire_cooldown": 0.28,
+    "bullet_speed": 640,
+    "bullet_damage": 14,
+    "bullet_range": 640,
+    "dodge_speed": 540,
+    "dodge_time": 0.17,
+    "dodge_cooldown": 1.1,
+    "iframes_after_hit": 0.6,
+    "ghost_speed": 120,
+    "ghost_disrupt_cooldown": 9.0,
+    "ghost_disrupt_radius": 110,
+    "ghost_disrupt_stun": 1.2,
+    "interact_range": 64,
+    "revive_hp_fraction": 0.5,
+    "weakened_time": 20.0,
+    "weakened_damage_mult": 1.3,
+    "weakened_speed_mult": 0.85
+  },
+  "roles": {
+    "mara": {
+      "name": "Mara Venn",
+      "title": "The Fixer",
+      "sprite": "Female",
+      "hp": 100,
+      "repair_mult": 1.6,
+      "ability": "barricade",
+      "ability_cooldown": 14.0
+    },
+    "dax": {
+      "name": "Dax Rook",
+      "title": "The Breacher",
+      "sprite": "Soldier",
+      "hp": 125,
+      "repair_mult": 1.0,
+      "ability": "charge",
+      "ability_cooldown": 9.0
+    },
+    "imani": {
+      "name": "Imani Sol",
+      "title": "The Medic",
+      "sprite": "Player",
+      "hp": 90,
+      "repair_mult": 1.0,
+      "ability": "stim",
+      "ability_cooldown": 12.0,
+      "ritual_mult": 1.5
+    }
+  },
+  "abilities": {
+    "barricade": {
+      "hp": 70,
+      "life": 14.0,
+      "size": 44
+    },
+    "charge": {
+      "speed": 700,
+      "time": 0.28,
+      "damage": 30,
+      "stagger": 1.0,
+      "knockback": 260
+    },
+    "stim": {
+      "radius": 150,
+      "heal": 35,
+      "cleanse": true
+    }
+  },
+  "enemies": {
+    "drifter": {
+      "name": "Husk",
+      "sprite": "Zombie",
+      "hp": 32,
+      "speed": 108,
+      "radius": 13,
+      "melee_range": 34,
+      "windup": 0.45,
+      "damage": 12,
+      "cooldown": 1.1,
+      "scale": 1.0,
+      "salvage_drop": 0.35,
+      "behavior": "melee",
+      "tint": null
+    },
+    "sentry": {
+      "name": "Sentry",
+      "sprite": "Adventurer",
+      "hp": 26,
+      "speed": 85,
+      "radius": 13,
+      "prefer_min": 220,
+      "prefer_max": 320,
+      "windup": 0.7,
+      "damage": 10,
+      "cooldown": 1.8,
+      "bullet_speed": 340,
+      "scale": 1.0,
+      "salvage_drop": 0.5,
+      "behavior": "ranged",
+      "tint": [
+        150,
+        170,
+        255
+      ]
+    },
+    "warden": {
+      "name": "Warden",
+      "sprite": "Zombie",
+      "hp": 130,
+      "speed": 82,
+      "radius": 18,
+      "slam_radius": 76,
+      "windup": 0.85,
+      "damage": 24,
+      "cooldown": 2.4,
+      "scale": 1.45,
+      "salvage_drop": 2.0,
+      "disrupt_radius": 160,
+      "behavior": "heavy",
+      "tint": [
+        255,
+        150,
+        150
+      ]
+    },
+    "crawler": {
+      "name": "Skitter",
+      "behavior": "melee",
+      "sprite": "Zombie",
+      "tint": [
+        255,
+        190,
+        120
+      ],
+      "hp": 12,
+      "speed": 165,
+      "radius": 10,
+      "melee_range": 28,
+      "windup": 0.26,
+      "damage": 6,
+      "cooldown": 0.75,
+      "scale": 0.72,
+      "salvage_drop": 0.12,
+      "lunge": 90
+    },
+    "stalker": {
+      "name": "Spitter",
+      "behavior": "ranged",
+      "sprite": "Adventurer",
+      "tint": [
+        150,
+        255,
+        160
+      ],
+      "hp": 20,
+      "speed": 72,
+      "radius": 12,
+      "prefer_min": 260,
+      "prefer_max": 380,
+      "windup": 0.95,
+      "damage": 9,
+      "cooldown": 2.7,
+      "bullet_speed": 250,
+      "burst": 3,
+      "spread": 0.3,
+      "scale": 0.95,
+      "salvage_drop": 0.4
+    },
+    "brute": {
+      "name": "Brute",
+      "behavior": "heavy",
+      "sprite": "Zombie",
+      "tint": [
+        200,
+        150,
+        255
+      ],
+      "hp": 72,
+      "speed": 96,
+      "radius": 15,
+      "slam_radius": 58,
+      "windup": 0.62,
+      "damage": 16,
+      "cooldown": 2.0,
+      "scale": 1.22,
+      "salvage_drop": 1.0,
+      "disrupt_radius": 0
+    },
+    "giant": {
+      "name": "Giant",
+      "behavior": "heavy",
+      "sprite": "Zombie",
+      "tint": [
+        120,
+        200,
+        120
+      ],
+      "hp": 240,
+      "speed": 88,
+      "radius": 26,
+      "slam_radius": 96,
+      "windup": 0.8,
+      "damage": 22,
+      "cooldown": 2.2,
+      "scale": 2.1,
+      "salvage_drop": 2.5,
+      "disrupt_radius": 0
+    },
+    "overlord": {
+      "name": "MERIDIAN Avatar",
+      "behavior": "heavy",
+      "sprite": "Zombie",
+      "tint": [
+        255,
+        60,
+        90
+      ],
+      "hp": 3000,
+      "speed": 72,
+      "radius": 34,
+      "slam_radius": 150,
+      "windup": 1.0,
+      "damage": 30,
+      "cooldown": 2.6,
+      "scale": 3.2,
+      "salvage_drop": 0,
+      "disrupt_radius": 0
+    }
+  },
+  "enemy_common": {
+    "spawn_safe_distance": 420,
+    "aggro_range": 520,
+    "hit_flash": 0.12,
+    "nav_interval": 0.45,
+    "max_alive": 140
+  },
+  "ritual": {
+    "base_cost": 4,
+    "cost_per_fracture": 1,
+    "duration": 8.0,
+    "radius": 120,
+    "decay_rate": 0.5,
+    "solo_auto_duration": 10.0,
+    "echo_pickup_range": 56
+  },
+  "fracture": {
+    "max": 10,
+    "per_revival": 1,
+    "stabilize_terminal": 2,
+    "stabilizer_pickup": 1,
+    "surge_from": 1,
+    "surge_interval": 14.0,
+    "surge_warning": 1.6,
+    "surge_radius": 80,
+    "surge_damage": 25,
+    "glitch_from": 2,
+    "glitch_interval": 24.0,
+    "glitch_warning": 1.8,
+    "glitch_lock": 8.0,
+    "patrol_from": 3,
+    "patrol_interval": 40.0,
+    "patrol_warning": 2.5,
+    "whisper_from": 4,
+    "whisper_interval": 30.0,
+    "speed_boost_from": 5,
+    "speed_boost": 1.1
+  },
+  "hazards": {
+    "floor_cycle": 6.0,
+    "floor_warning": 1.5,
+    "floor_active": 2.0,
+    "floor_damage": 15,
+    "floor_tick": 0.5
+  },
+  "mission": {
+    "relay_hold_time": 5.0,
+    "relay_decay": 0.6,
+    "extract_hold_time": 2.5,
+    "extract_radius": 120,
+    "core_salvage_bonus": 6,
+    "start_salvage": 6,
+    "pressure_interval": 75.0,
+    "pressure_wave_size": 2,
+    "pressure_warning": 2.5,
+    "terminal_stabilize_hold": 4.0
+  },
+  "upgrades": {
+    "plating": {
+      "name": "Reinforced Plating",
+      "cost": 8,
+      "max": 3,
+      "desc": "+10 max HP per level"
+    },
+    "fingers": {
+      "name": "Quick Fingers",
+      "cost": 10,
+      "max": 3,
+      "desc": "-12% repair and ritual time per level"
+    },
+    "efficiency": {
+      "name": "Anchor Efficiency",
+      "cost": 14,
+      "max": 2,
+      "desc": "-1 Rekindling salvage cost per level"
+    }
+  },
+  "modifiers": {
+    "blackout": {
+      "name": "Blackout",
+      "desc": "Darker station, smaller light radius.",
+      "darkness": 1.0
+    },
+    "swarm": {
+      "name": "Swarm",
+      "desc": "More Husks roam the station.",
+      "drifter_mult": 1.5
+    },
+    "brittle": {
+      "name": "Brittle Grid",
+      "desc": "Fracture starts at 1.",
+      "start_fracture": 1
+    },
+    "rich": {
+      "name": "Rich Salvage",
+      "desc": "More loot, more Sentries.",
+      "loot_mult": 1.5,
+      "sentry_mult": 1.4
+    }
+  }
+}

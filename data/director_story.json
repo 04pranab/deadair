@@ -1,0 +1,317 @@
+{
+ "version": 1,
+ "events": [
+  {
+   "id": "st_static",
+   "who": "STATION AI",
+   "icon": "ui/icons/information.png",
+   "text": "Shift Zero is proceeding normally. Please disregard any sounds from the walls.",
+   "preconditions": {
+    "min_time": 50.0
+   },
+   "triggers": [
+    "tick"
+   ],
+   "cooldown": 9999,
+   "effects": [
+    {
+     "op": "say"
+    },
+    {
+     "op": "set_flag",
+     "flag": "heard_static"
+    }
+   ],
+   "follow_ups": [
+    {
+     "id": "st_static_2",
+     "delay": 90.0
+    }
+   ],
+   "resolution": {
+    "kind": "instant"
+   }
+  },
+  {
+   "id": "st_static_2",
+   "who": "STATION AI",
+   "icon": "ui/icons/exclamation.png",
+   "text": "Correction: the sounds in the walls are not on the approved list.",
+   "preconditions": {
+    "flags_all": [
+     "heard_static"
+    ]
+   },
+   "triggers": [],
+   "cooldown": 9999,
+   "effects": [
+    {
+     "op": "say"
+    },
+    {
+     "op": "set_flag",
+     "flag": "static_corrected"
+    }
+   ],
+   "follow_ups": [],
+   "resolution": {
+    "kind": "instant"
+   }
+  },
+  {
+   "id": "st_first_relay",
+   "who": "STATION AI",
+   "icon": "ui/icons/checkmark.png",
+   "text": "Relay restored. Gratitude has been logged and will be ignored.",
+   "preconditions": {
+    "flags_none": [
+     "st_first_relay"
+    ]
+   },
+   "triggers": [
+    "relay_online"
+   ],
+   "cooldown": 9999,
+   "effects": [
+    {
+     "op": "say"
+    },
+    {
+     "op": "set_flag",
+     "flag": "st_first_relay"
+    },
+    {
+     "op": "memory",
+     "type": "story",
+     "importance": 2
+    }
+   ],
+   "follow_ups": [],
+   "resolution": {
+    "kind": "instant"
+   }
+  },
+  {
+   "id": "st_fall",
+   "who": "MERIDIAN",
+   "icon": "ui/icons/cross.png",
+   "text": "{name} has stopped. The Echo has not. Meridian recommends hurry.",
+   "preconditions": {
+    "min_time": 20.0
+   },
+   "triggers": [
+    "defeated"
+   ],
+   "cooldown": 60.0,
+   "effects": [
+    {
+     "op": "say"
+    },
+    {
+     "op": "memory",
+     "type": "story",
+     "importance": 3
+    }
+   ],
+   "follow_ups": [
+    {
+     "id": "st_fall_after",
+     "delay": 30.0
+    }
+   ],
+   "resolution": {
+    "kind": "on_event",
+    "event": "revived",
+    "timeout": 120.0
+   }
+  },
+  {
+   "id": "st_fall_after",
+   "who": "MERIDIAN",
+   "icon": "ui/icons/information.png",
+   "text": "The anchor accepted the Echo. It did not ask what it cost.",
+   "preconditions": {
+    "flags_none": [
+     "st_fall_after"
+    ]
+   },
+   "triggers": [],
+   "cooldown": 9999,
+   "effects": [
+    {
+     "op": "say"
+    },
+    {
+     "op": "set_flag",
+     "flag": "st_fall_after"
+    }
+   ],
+   "follow_ups": [],
+   "resolution": {
+    "kind": "instant"
+   }
+  },
+  {
+   "id": "st_anchor_clue",
+   "who": "MERIDIAN",
+   "icon": "ui/icons/information.png",
+   "text": "You have read the anchor memo. Meridian notes that you keep standing very close to anchors.",
+   "preconditions": {
+    "clues_all": [
+     "anchor_memo"
+    ],
+    "min_time": 30.0
+   },
+   "triggers": [
+    "echo_placed"
+   ],
+   "cooldown": 9999,
+   "effects": [
+    {
+     "op": "say"
+    },
+    {
+     "op": "set_flag",
+     "flag": "st_anchor_clue"
+    }
+   ],
+   "follow_ups": [],
+   "resolution": {
+    "kind": "instant"
+   }
+  },
+  {
+   "id": "st_deleted_badge",
+   "who": "MERIDIAN",
+   "icon": "ui/icons/warning.png",
+   "text": "Two of your clearances do not match any living employee. Meridian will not say which.",
+   "preconditions": {
+    "clues_all": [
+     "badge_audit",
+     "roster_mismatch"
+    ],
+    "min_time": 60.0
+   },
+   "triggers": [
+    "tick"
+   ],
+   "cooldown": 9999,
+   "effects": [
+    {
+     "op": "say"
+    },
+    {
+     "op": "set_flag",
+     "flag": "st_deleted_badge"
+    }
+   ],
+   "follow_ups": [],
+   "resolution": {
+    "kind": "instant"
+   }
+  },
+  {
+   "id": "st_rush",
+   "who": "MERIDIAN",
+   "icon": "ui/icons/fastForward.png",
+   "text": "Meridian observes that you do not stop to look at things. The station notes the same.",
+   "preconditions": {
+    "patterns_any": [
+     "rush"
+    ]
+   },
+   "triggers": [
+    "tick"
+   ],
+   "cooldown": 240.0,
+   "effects": [
+    {
+     "op": "say"
+    }
+   ],
+   "follow_ups": [],
+   "resolution": {
+    "kind": "instant"
+   }
+  },
+  {
+   "id": "st_adapted",
+   "who": "MERIDIAN",
+   "icon": "ui/icons/checkmark.png",
+   "text": "You changed your approach. Meridian has updated its notes. It did not enjoy that.",
+   "preconditions": {
+    "flags_all": [
+     "adapted_any"
+    ]
+   },
+   "triggers": [
+    "tick"
+   ],
+   "cooldown": 300.0,
+   "effects": [
+    {
+     "op": "say"
+    },
+    {
+     "op": "memory",
+     "type": "story",
+     "importance": 3
+    }
+   ],
+   "follow_ups": [],
+   "resolution": {
+    "kind": "instant"
+   }
+  },
+  {
+   "id": "st_supply",
+   "who": "STATION AI",
+   "icon": "ui/icons/basket.png",
+   "text": "A supply drop has been misdelivered to your position. Do not thank anyone.",
+   "preconditions": {
+    "flags_all": [
+     "director_supplied"
+    ]
+   },
+   "triggers": [
+    "tick"
+   ],
+   "cooldown": 200.0,
+   "effects": [
+    {
+     "op": "say"
+    }
+   ],
+   "follow_ups": [],
+   "resolution": {
+    "kind": "instant"
+   }
+  }
+ ],
+ "callbacks": [
+  {
+   "id": "cb_defeat",
+   "memory_type": "defeated",
+   "text": "Meridian remembers: {name} fell in the {room} on a previous shift.",
+   "min_importance": 2
+  },
+  {
+   "id": "cb_revive",
+   "memory_type": "revived",
+   "text": "The anchor remembers {name}. It kept the Echo.",
+   "min_importance": 2
+  },
+  {
+   "id": "cb_adapt",
+   "memory_type": "adapted",
+   "text": "Meridian logged that you stopped relying on {pattern}. It will remember.",
+   "min_importance": 2
+  },
+  {
+   "id": "cb_fail",
+   "memory_type": "failed",
+   "text": "Last shift ended with the crew lost. The station kept your seed.",
+   "min_importance": 3
+  }
+ ]
+}

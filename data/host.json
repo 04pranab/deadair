@@ -1,0 +1,74 @@
+{
+ "hp_base": 140,
+ "hp_per_crew": 230,
+ "speed": 215,
+ "radius": 17,
+ "claw": {
+  "range": 84,
+  "arc": 1.3,
+  "damage": 24,
+  "cooldown": 0.55,
+  "knock": 70
+ },
+ "lunge": {
+  "speed": 780,
+  "time": 0.22,
+  "cooldown": 4.5,
+  "damage": 18
+ },
+ "mark": {
+  "range": 1100,
+  "duration": 12.0,
+  "cooldown": 9.0,
+  "pull_range": 1300
+ },
+ "summon": {
+  "charge_time": 70.0,
+  "hold": 1.6,
+  "normal": 100,
+  "giants": 10,
+  "batch": 12,
+  "batch_gap": 0.45,
+  "ring": [
+   420,
+   700
+  ],
+  "cooldown": 200.0,
+  "min_crew_dist": 380,
+  "cap": 260,
+  "hit_charge": 0.04
+ },
+ "door": {
+  "lock_time": 0.9,
+  "lock_duration": 90.0,
+  "host_tap": 0.14,
+  "crew_tap": 0.1,
+  "decay": 0.3,
+  "threshold": 1.0,
+  "reach": 150
+ },
+ "cure": {
+  "hp_frac": 0.45,
+  "weak": 12.0
+ },
+ "convert": {
+  "warn": 8.0,
+  "after": 300.0,
+  "min_crew": 2,
+  "min_relays": 1,
+  "min_hp_frac": 0.6,
+  "enemy_clear": 650.0,
+  "max": 2,
+  "gap": 240.0
+ },
+ "ai": {
+  "tap_hz": 6.5
+ },
+ "veil": {
+  "factor": 0.3,
+  "burst": 90,
+  "window": 1.4,
+  "down": 4.5,
+  "lunge_window": 1.4
+ }
+}

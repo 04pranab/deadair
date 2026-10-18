@@ -1,0 +1,11 @@
+{
+ "taint": {"revived": 2.0, "defeated": 0.5, "teleport": 1.0, "log_read": 0.4, "gauge": 1.0, "relay": 0.6,
+           "ward_decay_per_s": 0.08, "cap": 8.0},
+ "eligibility": {"min_taint": 1.7, "min_total": 3.0, "min_relays": 1, "min_crew": 2, "cooldown": 150.0, "max_hosts": 2,
+                 "chance_per_think": 0.35, "base_weight": 0.25, "exponent": 1.5},
+ "rift": {"tear_warn": 6.0, "window_base": 60.0, "window_per_extra": 15.0, "window_cap": 110.0,
+          "min_separation": 1100.0, "min_from_crew": 900.0, "enemy_clear": 400.0, "read_radius": 220.0,
+          "tear_hold": 4.0, "burn_hold": 1.5, "shifts": 2, "shift_every": 22.0, "shift_warn": 2.0,
+          "blank_scar_fracture": 1, "burn_reward": 3, "blank_reward": 2, "carry_speed": 0.9,
+          "ordinary_cooldown": 130.0}
+}

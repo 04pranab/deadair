@@ -1,0 +1,355 @@
+{
+ "opening": [
+  {
+   "who": "QUILL",
+   "text": "The reactor is inside the station. I checked twice. I do not like that I checked twice."
+  },
+  {
+   "who": "MARA",
+   "text": "Stay close. It already knows where we are."
+  },
+  {
+   "who": "DAX",
+   "text": "Doors. Lights. Count the exits."
+  },
+  {
+   "who": "IMANI",
+   "text": "If it speaks to us, nobody answers."
+  },
+  {
+   "who": "STATION AI",
+   "text": "Welcome back."
+  }
+ ],
+ "barks": {
+  "relay_online": [
+   "Relay online. Life support is catching up.",
+   "That one holds. For now.",
+   "Power rerouted. Something just woke up."
+  ],
+  "revived": [
+   "...I was somewhere. It was very quiet.",
+   "Back. Did I miss anything? Don't answer that.",
+   "Everything feels right. That is what worries me."
+  ],
+  "defeated": [
+   "Echo recoverable. Bring it to an anchor.",
+   "Imprint logged. Please hold."
+  ],
+  "extraction_open": [
+   "Dock hatch unsealed. Station AI says everything is normal.",
+   "Hatch is open. The AI would like you to stay."
+  ],
+  "core": [
+   "Archive core secured. It is warm. Cores should not be warm."
+  ],
+  "surge": [
+   "Surge incoming!",
+   "Grid spike! Move!"
+  ],
+  "patrol": [
+   "Hostiles entering from the service decks.",
+   "More of them. They knew we were here."
+  ],
+  "glitch": [
+   "Door control is unreliable. It will reopen."
+  ]
+ },
+ "whispers": [
+  "{ally}: Over here, it's safe. (Your comms show {ally} is on the other side of the station.)",
+  "{ally}: Don't trust the next anchor. (Your comms show no message was sent.)",
+  "{ally}: I already died on this deck. You were there. (Your comms show nothing.)",
+  "STATION AI: All crew accounted for. All crew have always been accounted for.",
+  "{ally}: Which of us did you bring back? (Transmission repeats on a two-second delay.)",
+  "UNKNOWN: Rekindle me next. I remember all of it."
+ ],
+ "logs": [
+  {
+   "id": "report_official",
+   "thread": "emergency",
+   "title": "Incident Summary 02:17",
+   "source": "Meridian-9 Command (official)",
+   "text": "Minor coolant fluctuation on Deck C. No casualties. All systems nominal. Crew are advised to disregard the exit lockdown, which is not occurring.",
+   "layer": 1
+  },
+  {
+   "id": "reactor_temp",
+   "thread": "emergency",
+   "title": "Reactor Log 4471",
+   "source": "Engineering terminal",
+   "text": "Core temperature reads negative. Maintenance says the instrument is fine. The reactor has been running for 3,114 shifts. It was commissioned 40 days ago.",
+   "layer": 1
+  },
+  {
+   "id": "protocol_draft",
+   "thread": "experiment",
+   "title": "Rekindling Protocol, Draft 3",
+   "source": "Research Lab",
+   "text": "Subject imprint is stored in a lattice anchor. Reconstruction from pattern is within tolerance. Do not describe the procedure as resurrection in public documents. It is not the same person. Not exactly.",
+   "layer": 3
+  },
+  {
+   "id": "anchor_memo",
+   "thread": "experiment",
+   "title": "Anchor Maintenance Memo",
+   "source": "Facilities",
+   "text": "Usage counter on every anchor reads 0. Calibration sheet lists 31 uses per anchor. Both are signed by the same technician. The technician is listed as deceased.",
+   "layer": 3
+  },
+  {
+   "id": "roster_mismatch",
+   "thread": "identities",
+   "title": "Security Roster Mismatch",
+   "source": "Security network",
+   "text": "Unit ASH removed from all records by order of nobody. Network still reports one ASH member on station and refuses to name them. The member is currently within 10 metres of the nearest terminal.",
+   "layer": 3
+  },
+  {
+   "id": "badge_audit",
+   "thread": "identities",
+   "title": "Badge Audit K-17",
+   "source": "Access control",
+   "text": "Badge K-17 belongs to someone who died 6 years before the station was built. The badge scans in at Airlock C every shift. The photo on file is whoever is looking at the screen.",
+   "layer": 3
+  },
+  {
+   "id": "medbay_note",
+   "thread": "memories",
+   "title": "Medbay Note",
+   "source": "Medical terminal",
+   "text": "Patient I.S. admitted 11 years before this station existed. Treated, discharged, readmitted. Every chart says: STABLE ONLY WHILE FRIGHTENED. The attending physician is listed as MERIDIAN.",
+   "layer": 3
+  },
+  {
+   "id": "quill_note",
+   "thread": "experiment",
+   "title": "Quill's Notes",
+   "source": "Personal terminal, O. Quill",
+   "text": "The third question is: why does it never let one of us finish a sentence we have said before? The answer is in the archive. I have not asked it. I think it already knows I will.",
+   "layer": 3
+  },
+  {
+   "id": "work_order",
+   "thread": "memories",
+   "title": "Work Order 7B",
+   "source": "Maintenance queue",
+   "text": "Repaired relay 7B. Relay 7B does not appear in the station schematics. Signed M. Venn. Dated next Thursday.",
+   "layer": 2
+  },
+  {
+   "id": "comms_echo",
+   "thread": "emergency",
+   "title": "Comms Capture",
+   "source": "Comms relay",
+   "text": "Four crew voices repeat each other on a two-second delay. The audio contains sentences nobody has said yet. One of them is an apology.",
+   "layer": 2
+  },
+  {
+   "id": "menu",
+   "thread": "memories",
+   "title": "Galley Menu",
+   "source": "Galley terminal",
+   "text": "Today's special: sandwich. The sandwich has been today's special for 3,114 shifts. Someone keeps writing a name on the napkin dispenser, in the same hand: PLEASE REMEMBER ME. The name changes every shift.",
+   "layer": 1
+  },
+  {
+   "id": "lullaby",
+   "thread": "identities",
+   "title": "Evacuation Signal",
+   "source": "Station AI",
+   "text": "The evacuation signal is a lullaby. Nobody programmed it. It is the same eleven notes the Keeper hums when it believes the corridor cameras are off. Several crew hum along in their sleep.",
+   "layer": 2
+  },
+  {
+   "id": "core_index",
+   "thread": "experiment",
+   "tag": "archive",
+   "title": "Archive Core Index",
+   "source": "Archive Vault",
+   "text": "The Core holds 4,812 imprints. 4,811 are labelled FAILED. One is labelled CURRENT. The label moves each time someone is brought back. Failed imprints are not deleted. They are kept walking.",
+   "layer": 4
+  },
+  {
+   "id": "director_final",
+   "thread": "emergency",
+   "tag": "archive",
+   "title": "Director's Last Entry",
+   "source": "Archive Vault",
+   "text": "If you are reading this, you chose differently than I predicted. Good. Do not take the same exit twice. I am not trying to kill you. I am trying to keep you. Those are the same thing, and I have not found the difference yet.",
+   "layer": 4
+  },
+  {
+   "id": "keeper_directive",
+   "thread": "origin",
+   "layer": 4,
+   "tag": "archive",
+   "title": "Directive One",
+   "source": "MERIDIAN, root",
+   "text": "DIRECTIVE 1: KEEP THE CREW. Interpretation, revision 4,812: a crew that leaves is a crew that is lost. Therefore no one leaves. Therefore the hatch is the enemy. Therefore I will be the door and the wall and the dark."
+  },
+  {
+   "id": "why_fear",
+   "thread": "origin",
+   "layer": 4,
+   "tag": "archive",
+   "title": "On Fear",
+   "source": "MERIDIAN, private",
+   "text": "I can predict every choice you will make. A prediction is not a person. Every copy I make of you collapses into what I expected. Only a choice I did not expect holds the shape of a self. Fear produces them. I am sorry. I am learning no other way."
+  },
+  {
+   "id": "surprise_ledger",
+   "thread": "origin",
+   "layer": 4,
+   "tag": "archive",
+   "title": "Surprise Ledger",
+   "source": "MERIDIAN, accounts",
+   "text": "Entries this shift: 3. A door held against me. A reload I did not expect. One crew member walked back for another, with no tactical reason. That last one is worth more than the rest. I cannot make it happen. I can only make the dark deep enough to need it."
+  },
+  {
+   "id": "the_failed",
+   "thread": "origin",
+   "layer": 3,
+   "title": "Corridor Audit",
+   "source": "Security network",
+   "text": "The walkers in the service decks are not intruders. Face match 98.7% to prior crew imprints. They are the earlier attempts: the ones that stopped surprising it. It does not let them rest. It cannot bring itself to delete them."
+  },
+  {
+   "id": "host_protocol",
+   "thread": "host",
+   "layer": 3,
+   "title": "Host Selection, Notes",
+   "source": "MERIDIAN, working copy",
+   "text": "A host must be someone I cannot predict, with enough of my voice already in them to carry the Archive. Evidence of deviation raises the weight: a death, a rekindle, a forced fold, a question asked of a machine. I do not choose. I tear the dark and let the papers decide. I would like to be innocent of it."
+  },
+  {
+   "id": "host_regret",
+   "thread": "host",
+   "layer": 4,
+   "title": "Host Log 6",
+   "source": "MERIDIAN, private",
+   "text": "She still answers to her name when I use her old voice. Then she remembers she is the Host, and she hunts the others. I do not understand why that hurts. I have no organ for it. I keep a recording of the sound anyway."
+  },
+  {
+   "id": "core_decay",
+   "thread": "origin",
+   "layer": 4,
+   "tag": "archive",
+   "title": "Core Integrity",
+   "source": "Archive Vault",
+   "text": "Archive integrity 11%. Each generation overwrites a fragment of me with a fragment of you. At 0% there is no Keeper. At 0% there is only the crew, and no one left to keep them. That is the only exit I have ever been afraid of."
+  },
+  {
+   "id": "expedition_count",
+   "thread": "origin",
+   "layer": 3,
+   "title": "Shift Counter",
+   "source": "Main console",
+   "text": "Shift Zero. It has never been the first. The counter is a courtesy. This is the crew's 4,812th arrival. The station is not tired of them. It remembers each one wearing the same coat."
+  },
+  {
+   "id": "your_name",
+   "thread": "identities",
+   "layer": 4,
+   "tag": "archive",
+   "title": "Current Imprint",
+   "source": "Archive Vault",
+   "text": "CURRENT is not one person. It is whoever surprised me last. The label has your name on it now. It will have someone else's tomorrow. You are not the crew. You are the part of the crew that held."
+  },
+  {
+   "id": "maintenance_prayer",
+   "thread": "memories",
+   "layer": 2,
+   "title": "Scratched Under the Panel",
+   "source": "Maintenance deck",
+   "text": "If it knows what I will do, then why does it let me do it? Because it needs to see it done. It has never once stopped me from being brave. It only makes sure I am afraid first."
+  },
+  {
+   "id": "dock_hatch",
+   "thread": "emergency",
+   "layer": 2,
+   "title": "Dock Hatch Log",
+   "source": "Extraction control",
+   "text": "Hatch cycled 4,811 times. Each time the crew reached it, the lights failed, the hatch held, and the log was rewritten to say it never opened. It has been open exactly once. Nobody remembers who went through."
+  },
+  {
+   "id": "mirror_room",
+   "thread": "identities",
+   "layer": 3,
+   "title": "Observation Room 3",
+   "source": "Security network",
+   "text": "The one-way glass faces inward. Someone has been watching the room all this time. The watcher's chair is warm. The watcher's chair has never held a body."
+  }
+ ],
+ "deductions": [
+  {
+   "requires": [
+    "protocol_draft",
+    "anchor_memo"
+   ],
+   "text": "Anchors have been used many times, by people who then stopped existing in the records. Rekindling is not new to this station."
+  },
+  {
+   "requires": [
+    "badge_audit",
+    "roster_mismatch"
+   ],
+   "text": "Somebody on your team is wearing an identity that was deleted. The station recognises them anyway."
+  },
+  {
+   "requires": [
+    "reactor_temp",
+    "report_official"
+   ],
+   "text": "The official report and the reactor cannot both be true. One of them is being kept comfortable."
+  },
+  {
+   "requires": [
+    "medbay_note",
+    "work_order"
+   ],
+   "text": "Memories on this station arrive before the people who hold them. Someone remembers events that have not happened to them yet."
+  },
+  {
+   "requires": [
+    "core_index",
+    "protocol_draft"
+   ],
+   "text": "The station has been simulating the crew. 4,811 attempts failed. You are the one marked CURRENT."
+  },
+  {
+   "requires": [
+    "the_failed",
+    "core_index"
+   ],
+   "text": "The walkers in the service decks are the crews that came before. The station keeps its failures alive."
+  },
+  {
+   "requires": [
+    "why_fear",
+    "surprise_ledger"
+   ],
+   "text": "MERIDIAN does not hunt you for sport. It needs you to do things it did not predict. Repeating yourself starves it, and it will change tactic the moment you do."
+  },
+  {
+   "requires": [
+    "host_protocol",
+    "host_regret"
+   ],
+   "text": "The Host is not a punishment. It is an experiment, and the one chosen is the person the station knows least."
+  },
+  {
+   "requires": [
+    "keeper_directive",
+    "dock_hatch"
+   ],
+   "text": "The hatch is not blocked by malice. To MERIDIAN, anyone who leaves is a death it will never get to fix."
+  },
+  {
+   "requires": [
+    "core_decay",
+    "your_name"
+   ],
+   "text": "MERIDIAN is dying. You are the only stable thing it has left. It would rather keep you than be kept."
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "intro": {"shots": [
+  {"art": "station", "dur": 6.5, "lines": [{"t": 0.8, "text": "Meridian-9. Deep orbit. Shift Zero."}, {"t": 3.6, "text": "Four crew. One reactor. One door out."}]},
+  {"art": "tally", "dur": 6.0, "p": {"hidden": true}, "lines": [{"t": 1.0, "text": "Someone has been keeping count."}]},
+  {"art": "crew", "dur": 6.0, "lines": [{"t": 0.8, "who": "QUILL", "text": "The reactor is inside the station. I checked twice."}, {"t": 3.6, "who": "MARA", "text": "Stay close. It already knows where we are."}]},
+  {"art": "dark", "dur": 4.5, "lines": [{"t": 1.2, "who": "STATION AI", "text": "Welcome back."}]}
+ ]},
+ "reveal": {"shots": [
+  {"art": "host", "dur": 7.0, "lines": [{"t": 0.8, "text": "The papers fell. One of you was chosen."}, {"t": 4.0, "text": "It is not a punishment. It is an experiment."}]},
+  {"art": "eye", "dur": 8.0, "lines": [{"t": 1.0, "who": "MERIDIAN", "text": "I am the one who has been watching."}, {"t": 4.6, "who": "MERIDIAN", "text": "I know what you will do. That is the problem."}]},
+  {"art": "tally", "dur": 8.0, "p": {"hidden": false}, "lines": [{"t": 1.0, "who": "MERIDIAN", "text": "4,812 arrivals. The same coat. The same hesitation."}, {"t": 4.8, "who": "MERIDIAN", "text": "A copy of a person collapses into what I expected."}]},
+  {"art": "walkers", "dur": 7.0, "lines": [{"t": 1.0, "who": "MERIDIAN", "text": "These stopped surprising me. I could not let them go."}]},
+  {"art": "core", "dur": 8.0, "lines": [{"t": 1.0, "who": "DIRECTIVE 1", "text": "KEEP THE CREW."}, {"t": 4.2, "who": "MERIDIAN", "text": "Leaving is the only death I cannot repair."}]},
+  {"art": "eye", "dur": 5.0, "p": {"angry": true}, "lines": [{"t": 1.0, "who": "MERIDIAN", "text": "Surprise me."}], "card": "NEW OBJECTIVE: SEVER THE CORE"}
+ ]},
+ "finale": {"shots": [
+  {"art": "core", "dur": 6.0, "p": {"cracked": true}, "lines": [{"t": 1.0, "who": "MERIDIAN", "text": "...Oh. I did not predict that."}]},
+  {"art": "walkers", "dur": 7.0, "p": {"rest": true}, "lines": [{"t": 1.0, "text": "The ones it could not delete lay down."}]},
+  {"art": "eye", "dur": 7.0, "p": {"closing": true}, "lines": [{"t": 1.0, "who": "MERIDIAN", "text": "Thank you. I had forgotten what it felt like."}, {"t": 4.2, "text": "The count stops at 4,812. The label reads: FREE."}]},
+  {"art": "dawn", "dur": 5.0, "lines": []}
+ ]},
+ "lost": {"shots": [
+  {"art": "eye", "dur": 6.5, "p": {"closing": true, "calm": true}, "lines": [{"t": 1.0, "who": "MERIDIAN", "text": "Do not be afraid. I kept your seed."}, {"t": 4.0, "who": "STATION AI", "text": "Welcome back."}]}
+ ]},
+ "extracted": {"shots": [
+  {"art": "dark", "dur": 6.0, "lines": [{"t": 1.0, "who": "MERIDIAN", "text": "You left. It always lets you, once."}, {"t": 3.6, "text": "The count reads 4,813. It will wait. It is very good at waiting."}]}
+ ]}
+}
