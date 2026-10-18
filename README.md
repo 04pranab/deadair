@@ -51,7 +51,7 @@ Save and controls files live in `~/.deadair` (override with `DEADAIR_SAVE_DIR`).
 
 ## Not done
 
-- Online play (the simulation takes per-player `InputFrame`s so a network layer can be added; nothing is implemented). Audio (the ZIPs hold none). A custom font. True animation sheets: characters switch between 24 supplied poses plus procedural bob/lean/squash. The setup screen offers 4 players (the code scales to 6).
+- Online play (the simulation takes per-player `InputFrame`s so a network layer can be added; nothing is implemented). A custom font. True animation sheets: characters switch between 24 supplied poses plus procedural bob/lean/squash. The setup screen offers 4 players (the code scales to 6).
 - Gamepad mapping is untested on hardware.
 - No human playtest has been done. Every balance number comes from scripted bots, which cannot tell you whether the game is fun or whether the Director is "near impossible" for people.
 
