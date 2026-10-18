@@ -159,8 +159,6 @@ The project also includes screenshot generation, UI auditing, and scripted batch
 Save data and controls are stored under ~/.deadair by default. Set the DEADAIR_SAVE_DIR environment variable to use another location.
 
 ## Project documentation
-
-- [Asset audit](docs/ASSET_AUDIT.md)
 - [MERIDIAN Director notes](docs/MERIDIAN_DIRECTOR.md)
 
 ## Contributing and feedback
