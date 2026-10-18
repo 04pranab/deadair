@@ -18,7 +18,7 @@ Dead Air: Shift Zero is a playable vertical slice about surviving a fractured st
 - **Director:** MERIDIAN, a deterministic rule-based system, not machine learning
 - **Story:** Layered logs, deductions, and skippable cinematics
 - **License:** MIT
-- **Art:** Supplied Kenney asset packs only; see [the asset audit](docs/ASSET_AUDIT.md)
+- **Art:** Supplied Kenney asset packs only;
 
 ## Features
 
